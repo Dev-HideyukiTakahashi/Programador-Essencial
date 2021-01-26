@@ -222,26 +222,26 @@ do usuário do sistema operacional.
 
 ## :taxi:Transferência de dados
 
-   * Upload
+* Upload
 
 ![](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Internet/Image/imagem4.PNG)
 
-    A transferência de dados foi outro grande benefício obtido com a Internet. A melhor e mais fácil maneira de transmitir dados pela Internet é com o protocolo FTP (Protocolo de transferência de Arquivos), que permite a transferência de grande volume de dados em formato de arquivo de maneira fácil e padronizada entre os computadores, sendo possível disponibilizarmos arquivos para outros usuários copiarem ou para copiarmos arquivos de outros usuários
+   1. A transferência de dados foi outro grande benefício obtido com a Internet. A melhor e mais fácil maneira de transmitir dados pela Internet é com o protocolo FTP (Protocolo de transferência de Arquivos), que permite a transferência de grande volume de dados em formato de arquivo de maneira fácil e padronizada entre os computadores, sendo possível disponibilizarmos arquivos para outros usuários copiarem ou para copiarmos arquivos de outros usuários
 
 * Download
 
 ![](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Internet/Image/imagem5.PNG)
 
-    Download é o ato de copiar os arquivos que outros usuários disponibilizam na Internet para o seu computador.
+   2. Download é o ato de copiar os arquivos que outros usuários disponibilizam na Internet para o seu computador.
 
-
+---
 
 * Tipos de programas disponíveis na Internet para download:
 
 ![](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Internet/Image/imagem6.PNG)
 
 
-1. Shareware – você pode copiar e testar no seu computador, mas deve pagar
+1. Shareware – você pode copiar e testar no   seu computador, mas deve pagar
 um valor ao autor do programa para continuar utilizando.
 
 2. Demo – são versões que contêm algumas funções demonstrativas do
@@ -286,7 +286,7 @@ Unidos).
 
    * Ex: google.com.**br**
 
-   * Abaixo segue a lista de alguns domínios:
+* Abaixo segue a lista de alguns domínios:
      1. com - Indica que o site é uma organização comercial;
      2. gov - Indica que o site é uma organização governamental;
      3. edu - Indica que o site é uma organização educacional.
@@ -347,6 +347,12 @@ adicionar ou remover.
     Ele é o responsável por promover toda a conversão do nome do site em um endereço IP. Vale dizer, 
     portanto, que é fundamental que o seu domínio seja dirigido para o DNS da prestadora de hospedagem, 
     de maneira que a conversão das informações aconteça de modo prático e correto.
+
+    ---
+    
+    ---
+
+    
 
 
 
