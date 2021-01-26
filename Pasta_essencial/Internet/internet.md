@@ -272,7 +272,7 @@ de nomes”.
 - O DNS possui também a funcionalidade reversa,
 traduzindo endereços IP em nomes.
 
-![](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Internet/Image/imagem9.PNG)
+![](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Internet/Image/imagem9.png)
 
     O DNS é estruturado na forma de um banco de
     dados hierárquico distribuído, onde cada servidor
@@ -348,11 +348,11 @@ adicionar ou remover.
     portanto, que é fundamental que o seu domínio seja dirigido para o DNS da prestadora de hospedagem, 
     de maneira que a conversão das informações aconteça de modo prático e correto.
 
-    ---
+---
     
-    ---
+---
 
-    
+
 
 
 
