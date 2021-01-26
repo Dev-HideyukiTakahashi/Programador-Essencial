@@ -10,7 +10,7 @@ conecta a rede de um provedor de acesso, e a rede do provedor de acesso se
 conecta a um dos backbones de cada país, que por sua vez, recebe o sinal
 através de satélites ou cabos submarinos.
 
-imagem1
+![.](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Internet/Image/imagem1.PNGhttps://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Internet/Image/imagem1.PNG)
 
 
 
