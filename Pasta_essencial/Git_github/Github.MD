@@ -1,66 +1,96 @@
-# Dicas e comandos para github no terminal:
+# :bulb:Dicas e comandos para github no terminal:
+
+---
 
 
-1 - Repositório Remoto
+## 1 - Repositório Remoto
 
-    Comando para verificar qual repositório remoto:
-    git remote -v
+* Comando para verificar qual repositório remoto:
 
-    Comando para adicionar um repositório remoto no Github:
-    git remote add origin https://github.com/exemplo/exemplo
+    `git remote -v`
 
-2 - Push Remoto
+ * Comando para adicionar um repositório remoto no Github:
+    `git remote add origin https://github.com/exemplo/exemplo`
 
-    git push -u origin <branch>
+---
 
-    Exemplo:
-    git push -u origin master
+## 2 - Push Remoto
 
-3 - Pull remoto
+`git push -u origin <branch>`
 
-    git pull origin <branch>
+* Exemplo:
 
-    Exemplo:
+`git push -u origin master`
 
-    git pull origin master
+---
 
-4 - Comando para salvar usuário e senha no terminal:
+## 3 - Pull remoto
 
-    git config credential.helper store
+`git pull origin <branch>`
 
-5 - Adicionando colaboradores no projeto:
+* Exemplo:
 
-    Dentro do projeto clicar em: Settings > Manage Access > Invite a collaborator
+`git pull origin master`
 
-6 - Comando para retornar ao último estado do código antes das modificações (desfazer checkout):
+---
 
-    Para todos arquivos:
-    git checkout -- .
+## 4 - Comando para salvar usuário e senha no terminal:
 
-    Para um arquivo específico:
-    git checkout -- <nomeArquivo>
+`git config credential.helper store`
 
-7 - Comando para reverter o último commit, voltando ao estado anterior daquele ponto e inclusive criando um novo commit para log.
+---
 
-	git revert <commit id>
+## 5 - Adicionando colaboradores no projeto:
 
-8 - Comando para resetar o último commit, desfazendo o commit e retornando o arquivo para o status "modificado".
+Dentro do projeto clicar em: `Settings > Manage Access > Invite a collaborator`
 
-	git reset HEAD~1   /*após o "~" podemos definir qual número  de   
-                             commits resetar */
+---
 
-9 - Comando para armazenar usuário e senha:
+## 6 - Comando para retornar ao último estado do código antes das modificações (desfazer checkout):
 
-    git config credential.helper store
+* Para todos arquivos:
+    `git checkout -- .`
 
-    Removendo usuário e senha:
+* Para um arquivo específico:
+    `git checkout -- <nomeArquivo>`
 
-    git config --unset credential.helper
+---
 
-10 - Issues (Problemas)
+## 7 - Comando para reverter o último commit, voltando ao estado anterior daquele ponto e inclusive criando um novo commit para log.
 
-    Comando para fechar a issue, é incluso no final da mensagem(-m) do commit:
-    Closes #<númeroDaIssue>
+`git revert <commit id>`
+
+---
+
+## 8 - Comando para resetar o último commit, desfazendo o commit e retornando o arquivo para o status "modificado".
+
+`git reset HEAD~1`  
+ /*após o "~" podemos definir qual número  de commits resetar */
+
+---
+
+## 9 - Comando para armazenar usuário e senha:
+
+`git config credential.helper store`
+
+* Removendo usuário e senha:
+
+`git config --unset credential.helper`
+
+---
+
+## 10 - Issues (Problemas)
+
+* Comando para fechar a issue, é incluso no final da mensagem(-m) do commit:
+
+Closes #<númeroDaIssue>
+
+---
+---
+
+:point_right: [ComandosGit(básico)](https://github.com/Dev-HideyukiTakahashi/Git-Github/blob/main/ComandosGit(b%C3%A1sico).MD)
+
+:point_right: [ComandosGit(intermediário)](https://github.com/Dev-HideyukiTakahashi/Git-Github/blob/main/ComandosGit(intermedi%C3%A1rio).MD) 
 
 
 
