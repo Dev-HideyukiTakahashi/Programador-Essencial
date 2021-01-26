@@ -226,13 +226,13 @@ do usuário do sistema operacional.
 
 ![](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Internet/Image/imagem4.PNG)
 
-     A transferência de dados foi outro grande benefício obtido com a Internet. A melhor e mais fácil maneira de transmitir dados pela Internet é com o protocolo FTP (Protocolo de transferência de Arquivos), que permite a transferência de grande volume de dados em formato de arquivo de maneira fácil e padronizada entre os computadores, sendo possível disponibilizarmos arquivos para outros usuários copiarem ou para copiarmos arquivos de outros usuários
+    A transferência de dados foi outro grande benefício obtido com a Internet. A melhor e mais fácil maneira de transmitir dados pela Internet é com o protocolo FTP (Protocolo de transferência de Arquivos), que permite a transferência de grande volume de dados em formato de arquivo de maneira fácil e padronizada entre os computadores, sendo possível disponibilizarmos arquivos para outros usuários copiarem ou para copiarmos arquivos de outros usuários
 
 * Download
 
 ![](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Internet/Image/imagem5.PNG)
 
-      Download é o ato de copiar os arquivos que outros usuários disponibilizam na Internet para o seu computador.
+    Download é o ato de copiar os arquivos que outros usuários disponibilizam na Internet para o seu computador.
 
 
 

@@ -22,7 +22,7 @@
 
 ---
 
-* :open_file_folder:[Internet](https://github.com/Dev-HideyukiTakahashi/Essencial/tree/master/Pasta_essencial/Internet)
+* :open_file_folder:[Internet](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Internet/internet.md)
 
 ---
 
