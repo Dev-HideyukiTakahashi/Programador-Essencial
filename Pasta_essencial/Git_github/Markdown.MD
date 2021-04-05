@@ -1,4 +1,4 @@
-# **:bulb:Codificação e marcas em Markdown.**
+# :bulb:Codificação e marcas em Markdown.
 
 ---
 

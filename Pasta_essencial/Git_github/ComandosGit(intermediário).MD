@@ -1,4 +1,4 @@
-# **:bulb:Dicas e comandos git intermediário.**
+# :bulb:Dicas e comandos git intermediário.
 
 ---
 

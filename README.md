@@ -17,7 +17,7 @@
 
 ---
 
-## **:books:Internet basics.**
+## **:books:Internet basics**
 ### :open_book:Internet básica, browser, HTTP, DNS e hosting.
 
 ---
@@ -26,5 +26,10 @@
 
 ---
 
+## **:books:Linux:penguin:**
+
+### :open_book: Anotações e estudos baseado em Linux Ubuntu.
+
+---
 
 
