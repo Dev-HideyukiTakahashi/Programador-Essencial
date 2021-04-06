@@ -1,4 +1,4 @@
-# :bulb:Diretórios
+# :bulb:Diretórios comuns no Linux
 
 ---
 
