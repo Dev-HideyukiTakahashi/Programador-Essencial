@@ -28,7 +28,7 @@
     * `find` = Comando para buscar arquivos.
         * Exemplo: `find ~ -name pastaNova`
             * Busca todas as pastas em 'home' para comparar se encontra alguma com nome 'pastaNova'.
-    
+---   
 * Manipulando arquivos:
     * `touch <nomeDoArquivo.extensão>` = Cria um arquivo vazio.
         * Exemplo: `touch texto.txt`
@@ -41,8 +41,17 @@
     * `cat <nomeDoArquivo>` = Este comando envia o conteúdo de um ou mais arquivos para a saída padrão ou para um outro arquivo. Portanto, cat conCATena (junta) arquivos.
         * `cat <nomeDoArquivoFornecedor.extensão> >> <nomeDoArquivoReceptor.extensão>` = Concatena 2 arquivos.
             * Exemplo: `cat texto1.txt >> texto2.txt`
-    * ` <nomeDoArquivo>` = Mostra as 10 primeiras linhas do arquivo.
+    * `head <nomeDoArquivo>` = Mostra as 10 primeiras linhas do arquivo.
     * `tail <nomeDoArquivo>` = Mostra as últimas 10 linhas do arquivo
+    * `grep <palavra>` = Busca palavras em arquivos de texto.
+---
+* Operadores lógicos dentro do terminal:
+    * "|" = Envia a saída de um comando para a entrada de outro comando, permitindo a execução de dois comandos
+    * ">" = Redireciona a saída de um comando para outro comando ou arquivo.
+    * ">>" = Redireciona a saída e adiciona a mesma para um comando ou arquivo.
+    * "&" = Este operador permite usar dois comandos e separar suas saídas no teterminal.
+    * "&&" = Usado para que dois comandos sejam executados, se o primeiro for executado com sucesso.
+---
 
 
 
