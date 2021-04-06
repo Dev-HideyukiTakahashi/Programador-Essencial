@@ -30,7 +30,7 @@
 
 ### :open_book: Anotações e estudos baseado em Linux Ubuntu.
 * :open_file_folder:[Comandos Terminal](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Linux/Terminal.md)
-* :open_file_folder:[Diretórios](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Linux/Terminal.md)
+* :open_file_folder:[Diretórios](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Linux/Diretorios.md)
 ---
 
 
