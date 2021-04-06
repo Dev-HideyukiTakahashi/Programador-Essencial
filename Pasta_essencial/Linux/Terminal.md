@@ -28,6 +28,11 @@
     * `find` = Comando para buscar arquivos.
         * Exemplo: `find ~ -name pastaNova`
             * Busca todas as pastas em 'home' para comparar se encontra alguma com nome 'pastaNova'.
+    * `arch` = Mostra a arquitetura do sistema (32 ou 64 bits)
+    * `reboot` = Reinicia a máquina
+        * `last reboot` = Retorna um histórico de todas as vezes que foi reiniciado.
+    *
+    
 ---   
 * Manipulando arquivos:
     * `touch <nomeDoArquivo.extensão>` = Cria um arquivo vazio.
@@ -52,6 +57,22 @@
     * "&" = Este operador permite usar dois comandos e separar suas saídas no teterminal.
     * "&&" = Usado para que dois comandos sejam executados, se o primeiro for executado com sucesso.
 ---
+* Gerenciamento de pacotes:
+    * `sudo apt upgrade <pacote>` 
+        * Comando para atualizar um pacote.
+    * `sudo apt remove <pacote>`
+        * Remove um pacote.
+    * `sudo apt update && upgrade `
+        * Atualiza todos pacotes do sistema.
+        * Pode ser necessário `sudo su`
+    * `sudo dpkg -i <pacote>` 
+        * Instala um programa com extensão **.deb**
+        * Exemplo : `dpkg -i instalador.deb`
+    * `sudo dpkg -r <pacote>`
+        * Remove um pacote.
+        * Pode ser necessário `sudo dpkg -I` para localizar o nome do pacote.
+    
+
 
 
 
