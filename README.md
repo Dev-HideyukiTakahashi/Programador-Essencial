@@ -1,8 +1,8 @@
-# **:man_student:Repositório essencial do desenvolvedor.**
+# :man_student:Repositório essencial do desenvolvedor.
 
 ---
 
-## **:books:Git - Github**
+## :books:Git - Github:octocat:
 ### :open_book:Anotações e estudos sobre git e github.
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-## **:books:Internet basics**
+## :books:Internet basics
 ### :open_book:Internet básica, browser, HTTP, DNS e hosting.
 
 ---
@@ -32,5 +32,7 @@
 * :open_file_folder:[Comandos Terminal](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Linux/Terminal.md)
 * :open_file_folder:[Diretórios](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Linux/Diretorios.md)
 ---
-
+## :books:Docker:boat:
+### :open_book:Anotações e estudos sobre Docker
+* :open_file_folder:[Comandos Básicos](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Docker/Comandos.md)
 
