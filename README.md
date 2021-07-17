@@ -1,19 +1,7 @@
-<p align="center">
-    <!-- languages -->
-    <img src="https://img.shields.io/github/languages/count/Dev-HideyukiTakahashi/Programador-Essencial?style=social"
-        alt="Linguagens utilizadas">
-    <!-- repo size -->
-    <img src="https://img.shields.io/github/repo-size/Dev-HideyukiTakahashi/Programador-Essencial?style=social"
-        alt="Tamanho do repositório">
-    <!-- last commit -->
-    <img src="https://img.shields.io/github/last-commit/Dev-HideyukiTakahashi/Programador-Essencial?style=social"
-        alt="Último commit">
-    <!-- licence MIT -->
-    <img src="https://img.shields.io/github/license/Dev-HideyukiTakahashi/Programador-Essencial?style=social" alt="Licença MIT">
-</p>
 <hr>
 <h1 align="center">PROGRAMADOR ESSENCIAL</h1>
 <hr>
+<h3 align="center">Anotações, estudos e dicas</h3>
 
 <details>
     <summary><strong>Back-End</strong></summary>
@@ -166,4 +154,17 @@
 <!--IMAGEM-->
 <p align="center">
     <img src="/src/img/programador.gif" alt="programador">
+</p>
+<p align="center">
+    <!-- languages -->
+    <img src="https://img.shields.io/github/languages/count/Dev-HideyukiTakahashi/Programador-Essencial?style=social"
+        alt="Linguagens utilizadas">
+    <!-- repo size -->
+    <img src="https://img.shields.io/github/repo-size/Dev-HideyukiTakahashi/Programador-Essencial?style=social"
+        alt="Tamanho do repositório">
+    <!-- last commit -->
+    <img src="https://img.shields.io/github/last-commit/Dev-HideyukiTakahashi/Programador-Essencial?style=social"
+        alt="Último commit">
+    <!-- licence MIT -->
+    <img src="https://img.shields.io/github/license/Dev-HideyukiTakahashi/Programador-Essencial?style=social" alt="Licença MIT">
 </p>
