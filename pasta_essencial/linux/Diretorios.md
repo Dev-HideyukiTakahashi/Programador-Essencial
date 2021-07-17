@@ -2,7 +2,7 @@
 
 ---
 
-![](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Linux/Img/diretorios.png)
+![](https://github.com/Dev-HideyukiTakahashi/Programador-Essencial/blob/master/pasta_essencial/linux/Img/diretorios.png)
 
 ---
 
