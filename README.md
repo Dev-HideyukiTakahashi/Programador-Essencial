@@ -14,7 +14,7 @@
 
 
 
-<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" type="text/css" href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/src/style.css"/>
 <hr>
 <h1 align="center">PROGRAMADOR ESSENCIAL</h1>
 <hr>
@@ -25,7 +25,7 @@
     <br />
     <div align="left">
 
-        <!-- ALGORITMO DO MENU
+<!-- ALGORITMO DO MENU
         <tr>
             <td align="center">Espaço para tópico já aprendido</td>
             <td align="center">✔️</td>
@@ -37,8 +37,8 @@
         <tr>
             <td align="center">Espaço para tópico que vou aprender no futuro</td>
             <td align="center">🌱</td>
-        </tr>   -->
-
+        </tr>   
+//-->
         <!-- JAVA -->
         <table border=1>
             <tr>
@@ -137,46 +137,106 @@
     <summary><strong>Extras</strong></summary>
     <br />
     <div align="left">
-        <table border=1>
-            <tr>
-                <th colspan="2">Github</th>
-            </tr>
-            <tr>
-                <th colspan="2"></th>
-            </tr>
-            <tr>
-                <th>Tópico</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td align="center">Markdown</td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">Git Básico</td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">Git Intermediário</td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">Github</td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">Espaço para tópico que está em aprendizado</td>
-                <td align="center">👨🏻‍🎓📚</td>
-            </tr>
-            <tr>
-                <td align="center">Espaço para tópico que vou aprender no futuro</td>
-                <td align="center">🌱</td>
-            </tr>
-        </table>
+
+        <details>
+            <summary><strong>Git-Github</strong></summary>
+            <br />
+            <table border=1>
+            
+                <tr>
+                    <th colspan="2">Github</th>
+                </tr>
+                <tr>
+                    <th colspan="2"></th>
+                </tr>
+                <tr>
+                    <th>Tópico</th>
+                    <th>Status</th>
+                </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Markdown.MD">Markdown</a></td>
+                    <td align="center">✔️</td>
+                </tr>
+                <tr>
+                    <td align="center">Git Básico</td>
+                    <td align="center">✔️</td>
+                </tr>
+                <tr>
+                    <td align="center">Git Intermediário</td>
+                    <td align="center">✔️</td>
+                </tr>
+                <tr>
+                    <td align="center">Github</td>
+                    <td align="center">✔️</td>
+                </tr>
+            </table>
+        </details>
+        <details>
+            <summary><strong>Espaço teste</strong></summary>
+            <br />
+            <table border=1>
+            
+                <tr>
+                    <th colspan="2">Github</th>
+                </tr>
+                <tr>
+                    <th colspan="2"></th>
+                </tr>
+                <tr>
+                    <th>Tópico</th>
+                    <th>Status</th>
+                </tr>
+
+                <tr>
+                    <td align="center">Espaço para tópico já aprendido</td>
+                    <td align="center">✔️</td>
+                </tr>
+    
+                <tr>
+                    <td align="center">Espaço para tópico que está em aprendizado</td>
+                    <td align="center">👨🏻‍🎓📚</td>
+                </tr>
+                <tr>
+                    <td align="center">Espaço para tópico que vou aprender no futuro</td>
+                    <td align="center">🌱</td>
+                </tr>
+            </table>
+        </details>
+        <details>
+            <summary><strong>Espaço teste</strong></summary>
+            <table border=1>
+            
+                <tr>
+                    <th colspan="2">Github</th>
+                </tr>
+                <tr>
+                    <th colspan="2"></th>
+                </tr>
+                <tr>
+                    <th>Tópico</th>
+                    <th>Status</th>
+                </tr>
+
+                <tr>
+                    <td align="center">Espaço para tópico já aprendido</td>
+                    <td align="center">✔️</td>
+                </tr>
+    
+                <tr>
+                    <td align="center">Espaço para tópico que está em aprendizado</td>
+                    <td align="center">👨🏻‍🎓📚</td>
+                </tr>
+                <tr>
+                    <td align="center">Espaço para tópico que vou aprender no futuro</td>
+                    <td align="center">🌱</td>
+                </tr>
+            </table>
+        </details>
+        
     </div>
 </details>
 <hr>
 <!--IMAGEM-->
 <p align="center">
-    <img src="/src/img/programador.gif" alt="DIO" tittle="Digital Innovation One">
+    <img src="/src/img/programador.gif" alt="programador">
 </p>
