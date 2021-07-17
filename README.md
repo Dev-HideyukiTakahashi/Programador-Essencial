@@ -11,35 +11,16 @@
     <!-- licence MIT -->
     <img src="https://img.shields.io/github/license/Dev-HideyukiTakahashi/essencial?style=social" alt="Licença MIT">
 </p>
-
-
-
 <link rel="stylesheet" type="text/css" href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/src/style.css"/>
 <hr>
 <h1 align="center">PROGRAMADOR ESSENCIAL</h1>
 <hr>
 
-<!-- BACK-END -->
 <details>
     <summary><strong>Back-End</strong></summary>
     <br />
     <div align="left">
-
-<!-- ALGORITMO DO MENU
-        <tr>
-            <td align="center">Espaço para tópico já aprendido</td>
-            <td align="center">✔️</td>
-        </tr>
-        <tr>
-            <td align="center">Espaço para tópico que está em aprendizado</td>
-         <td align="center">👨🏻‍🎓📚</td>
-        </tr>
-        <tr>
-            <td align="center">Espaço para tópico que vou aprender no futuro</td>
-            <td align="center">🌱</td>
-        </tr>   
-//-->
-        <!-- JAVA -->
+<!-- JAVA -->
         <table border=1>
             <tr>
                 <th colspan="2">Java</th>
@@ -63,7 +44,6 @@
                 <td align="center">Espaço para tópico que vou aprender no futuro</td>
                 <td align="center">🌱</td>
             </tr>
-
         </table>
     </div>
 </details>
@@ -137,12 +117,10 @@
     <summary><strong>Extras</strong></summary>
     <br />
     <div align="left">
-
         <details>
             <summary><strong>Git-Github</strong></summary>
             <br />
-            <table border=1>
-            
+            <table border=1>            
                 <tr>
                     <th colspan="2">Github</th>
                 </tr>
@@ -174,8 +152,7 @@
         <details>
             <summary><strong>Espaço teste</strong></summary>
             <br />
-            <table border=1>
-            
+            <table border=1>            
                 <tr>
                     <th colspan="2">Github</th>
                 </tr>
@@ -186,12 +163,10 @@
                     <th>Tópico</th>
                     <th>Status</th>
                 </tr>
-
                 <tr>
                     <td align="center">Espaço para tópico já aprendido</td>
                     <td align="center">✔️</td>
-                </tr>
-    
+                </tr>    
                 <tr>
                     <td align="center">Espaço para tópico que está em aprendizado</td>
                     <td align="center">👨🏻‍🎓📚</td>
@@ -204,8 +179,7 @@
         </details>
         <details>
             <summary><strong>Espaço teste</strong></summary>
-            <table border=1>
-            
+            <table border=1>            
                 <tr>
                     <th colspan="2">Github</th>
                 </tr>
@@ -216,12 +190,10 @@
                     <th>Tópico</th>
                     <th>Status</th>
                 </tr>
-
                 <tr>
                     <td align="center">Espaço para tópico já aprendido</td>
                     <td align="center">✔️</td>
-                </tr>
-    
+                </tr>    
                 <tr>
                     <td align="center">Espaço para tópico que está em aprendizado</td>
                     <td align="center">👨🏻‍🎓📚</td>
@@ -231,8 +203,7 @@
                     <td align="center">🌱</td>
                 </tr>
             </table>
-        </details>
-        
+        </details>        
     </div>
 </details>
 <hr>
