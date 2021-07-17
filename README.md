@@ -6,7 +6,7 @@
 <details>
     <summary><strong>Back-End</strong></summary>
     <br />
-    <div align="left">
+    <div align="center">
         <details>        
             <summary><strong>Java</strong></summary>
             <br />
@@ -68,7 +68,7 @@
 <details>
     <summary><strong>Front-End</strong></summary>
     <br />
-    <div align="left">
+    <div align="center">
         <details>        
             <summary><strong>HTML5</strong></summary>
             <br />
@@ -113,7 +113,7 @@
 <details>
     <summary><strong>Data-Base</strong></summary>
     <br />
-    <div align="left">
+    <div align="center">
         <details>        
             <summary><strong>SQL</strong></summary>
             <br />
@@ -143,7 +143,7 @@
 <details>
     <summary><strong>Extras</strong></summary>
     <br />
-    <div align="left">
+    <div align="center">
         <details>
             <summary><strong>Git-Github</strong></summary>
             <br />
