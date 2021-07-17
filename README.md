@@ -11,7 +11,6 @@
     <!-- licence MIT -->
     <img src="https://img.shields.io/github/license/Dev-HideyukiTakahashi/essencial?style=social" alt="Licença MIT">
 </p>
-<link rel="stylesheet" type="text/css" href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/src/style.css"/>
 <hr>
 <h1 align="center">PROGRAMADOR ESSENCIAL</h1>
 <hr>
