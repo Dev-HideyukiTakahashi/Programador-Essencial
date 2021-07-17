@@ -121,88 +121,45 @@
             <br />
             <table border=1>            
                 <tr>
-                    <th colspan="2">Github</th>
+                    <th colspan="1">Git</th>
                 </tr>
                 <tr>
-                    <th colspan="2"></th>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/ComandosGit(básico).MD">Git básico</a></td>
                 </tr>
                 <tr>
-                    <th>Tópico</th>
-                    <th>Status</th>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/ComandosGit(intermediário).MD">Git intermediário</a></td>
+                </tr>
+            </table>            
+            <table border=1> 
+                <tr>
+                    <th colspan="1">Github</th>
                 </tr>
                 <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Markdown.MD">Markdown</a></td>
-                    <td align="center">✔️</td>
                 </tr>
                 <tr>
-                    <td align="center">Git Básico</td>
-                    <td align="center">✔️</td>
-                </tr>
-                <tr>
-                    <td align="center">Git Intermediário</td>
-                    <td align="center">✔️</td>
-                </tr>
-                <tr>
-                    <td align="center">Github</td>
-                    <td align="center">✔️</td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Github.MD">Github</a></td>
                 </tr>
             </table>
         </details>
         <details>
-            <summary><strong>Espaço teste</strong></summary>
+            <summary><strong>Linux</strong></summary>
             <br />
             <table border=1>            
                 <tr>
-                    <th colspan="2">Github</th>
+                    <th colspan="1">Linux</th>
                 </tr>
                 <tr>
-                    <th colspan="2"></th>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/linux/Diretorios.md">Diretórios</a></td>
                 </tr>
                 <tr>
-                    <th>Tópico</th>
-                    <th>Status</th>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/linux/Redes.md">Redes</a></td>
                 </tr>
                 <tr>
-                    <td align="center">Espaço para tópico já aprendido</td>
-                    <td align="center">✔️</td>
-                </tr>    
-                <tr>
-                    <td align="center">Espaço para tópico que está em aprendizado</td>
-                    <td align="center">👨🏻‍🎓📚</td>
-                </tr>
-                <tr>
-                    <td align="center">Espaço para tópico que vou aprender no futuro</td>
-                    <td align="center">🌱</td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/linux/Terminal.md">Terminal</a></td>
                 </tr>
             </table>
         </details>
-        <details>
-            <summary><strong>Espaço teste</strong></summary>
-            <table border=1>            
-                <tr>
-                    <th colspan="2">Github</th>
-                </tr>
-                <tr>
-                    <th colspan="2"></th>
-                </tr>
-                <tr>
-                    <th>Tópico</th>
-                    <th>Status</th>
-                </tr>
-                <tr>
-                    <td align="center">Espaço para tópico já aprendido</td>
-                    <td align="center">✔️</td>
-                </tr>    
-                <tr>
-                    <td align="center">Espaço para tópico que está em aprendizado</td>
-                    <td align="center">👨🏻‍🎓📚</td>
-                </tr>
-                <tr>
-                    <td align="center">Espaço para tópico que vou aprender no futuro</td>
-                    <td align="center">🌱</td>
-                </tr>
-            </table>
-        </details>        
     </div>
 </details>
 <hr>

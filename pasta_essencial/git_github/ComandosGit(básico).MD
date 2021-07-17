@@ -135,6 +135,7 @@ Exemplo para ignorar todos arquivos em uma determinada extensão, dentro do arqu
 
 ---
 
-:point_right: [ComandosGit(intermediário)](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Git_github/ComandosGit(intermedi%C3%A1rio).MD) 
+:point_right: [Comandos Git (intermediário)](https://github.com/Dev-HideyukiTakahashi/Programador-Essencial/blob/master/pasta_essencial/git_github/ComandosGit(intermedi%C3%A1rio).MD) 
+:point_right: [Programador Essencial](https://github.com/Dev-HideyukiTakahashi/Programador-Essencial)
 
 

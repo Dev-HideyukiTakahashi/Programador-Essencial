@@ -106,12 +106,8 @@ Exemplo | Exemplo 2 | Exemplo 3
 https://github.com/ikatyang/emoji-cheat-sheet
 
 ---
+:point_right: [Github](https://github.com/Dev-HideyukiTakahashi/Programador-Essencial/blob/master/pasta_essencial/git_github/Github.MD)
+:point_right: [Programador Essencial](https://github.com/Dev-HideyukiTakahashi/Programador-Essencial)
 
-
-
-
-:point_right: [ComandosGit(básico)](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Git_github/ComandosGit(b%C3%A1sico).MD)
-
-:point_right: [ComandosGit(intermediário)](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Git_github/ComandosGit(intermedi%C3%A1rio).MD) 
 
 
