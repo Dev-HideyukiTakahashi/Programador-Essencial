@@ -1,38 +1,182 @@
-# :man_student:Repositório essencial do desenvolvedor.
+<p align="center">
+    <!-- languages -->
+    <img src="https://img.shields.io/github/languages/count/Dev-HideyukiTakahashi/essencial?style=social"
+        alt="Linguagens utilizadas">
+    <!-- repo size -->
+    <img src="https://img.shields.io/github/repo-size/Dev-HideyukiTakahashi/essencial?style=social"
+        alt="Tamanho do repositório">
+    <!-- last commit -->
+    <img src="https://img.shields.io/github/last-commit/Dev-HideyukiTakahashi/essencial?style=social"
+        alt="Último commit">
+    <!-- licence MIT -->
+    <img src="https://img.shields.io/github/license/Dev-HideyukiTakahashi/essencial?style=social" alt="Licença MIT">
+</p>
 
----
 
-## :books:Git - Github :octocat:
-### :open_book:Anotações e estudos sobre git e github.
 
----
+<link rel="stylesheet" type="text/css" href="style.css" />
+<hr>
+<h1 align="center">PROGRAMADOR ESSENCIAL</h1>
+<hr>
 
-* :open_file_folder:[Markdown](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Git_github/Markdown.MD)
+<!-- BACK-END -->
+<details>
+    <summary><strong>Back-End</strong></summary>
+    <br />
+    <div align="left">
 
-* :open_file_folder:[Git Básico](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Git_github/ComandosGit(b%C3%A1sico).MD)
+        <!-- ALGORITMO DO MENU
+        <tr>
+            <td align="center">Espaço para tópico já aprendido</td>
+            <td align="center">✔️</td>
+        </tr>
+        <tr>
+            <td align="center">Espaço para tópico que está em aprendizado</td>
+         <td align="center">👨🏻‍🎓📚</td>
+        </tr>
+        <tr>
+            <td align="center">Espaço para tópico que vou aprender no futuro</td>
+            <td align="center">🌱</td>
+        </tr>   -->
 
-* :open_file_folder:[Git Intermediário](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Git_github/ComandosGit(intermedi%C3%A1rio).MD)
+        <!-- JAVA -->
+        <table border=1>
+            <tr>
+                <th colspan="2">Java</th>
+            </tr>
+            <tr>
+                <th colspan="2"></th>
+            </tr>
+            <tr>
+                <th>Tópico</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">Espaço para tópico já aprendido</td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">Espaço para tópico que está em aprendizado</td>
+                <td align="center">👨🏻‍🎓📚</td>
+            </tr>
+            <tr>
+                <td align="center">Espaço para tópico que vou aprender no futuro</td>
+                <td align="center">🌱</td>
+            </tr>
 
-* :open_file_folder:[Github](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Git_github/Github.MD)
+        </table>
+    </div>
+</details>
 
----
+<!-- FRONT-END -->
+<details>
+    <summary><strong>Front-End</strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="2">HTML5</th>
+            </tr>
+            <tr>
+                <th colspan="2"></th>
+            </tr>
+            <tr>
+                <th>Tópico</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">Espaço para tópico já aprendido</td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">Espaço para tópico que está em aprendizado</td>
+                <td align="center">👨🏻‍🎓📚</td>
+            </tr>
+            <tr>
+                <td align="center">Espaço para tópico que vou aprender no futuro</td>
+                <td align="center">🌱</td>
+            </tr>
+        </table>
+    </div>
+</details>
 
-## :books:Internet basics
-### :open_book:Internet básica, browser, HTTP, DNS e hosting.
+<!-- DATA-BASE -->
+<details>
+    <summary><strong>Data-Base</strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="2">MySQL</th>
+            </tr>
+            <tr>
+                <th colspan="2"></th>
+            </tr>
+            <tr>
+                <th>Tópico</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">Espaço para tópico já aprendido</td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">Espaço para tópico que está em aprendizado</td>
+                <td align="center">👨🏻‍🎓📚</td>
+            </tr>
+            <tr>
+                <td align="center">Espaço para tópico que vou aprender no futuro</td>
+                <td align="center">🌱</td>
+            </tr>
+        </table>
+    </div>
+</details>
 
----
-
-* :open_file_folder:[Internet](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Internet/internet.md)
-
----
-
-## :books:Linux :penguin:
-
-### :open_book: Anotações e estudos sobre Linux (distro Ubuntu).
-* :open_file_folder:[Comandos Terminal](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Linux/Terminal.md)
-* :open_file_folder:[Diretórios](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Linux/Diretorios.md)
----
-## :books:Docker :boat:
-### :open_book:Anotações e estudos sobre Docker
-* :open_file_folder:[Comandos Básicos](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/Pasta_essencial/Docker/Comandos.md)
-
+<!-- EXTRAS -->
+<details>
+    <summary><strong>Extras</strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="2">Github</th>
+            </tr>
+            <tr>
+                <th colspan="2"></th>
+            </tr>
+            <tr>
+                <th>Tópico</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">Markdown</td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">Git Básico</td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">Git Intermediário</td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">Github</td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">Espaço para tópico que está em aprendizado</td>
+                <td align="center">👨🏻‍🎓📚</td>
+            </tr>
+            <tr>
+                <td align="center">Espaço para tópico que vou aprender no futuro</td>
+                <td align="center">🌱</td>
+            </tr>
+        </table>
+    </div>
+</details>
+<hr>
+<!--IMAGEM-->
+<p align="center">
+    <img src="/src/img/programador.gif" alt="DIO" tittle="Digital Innovation One">
+</p>
