@@ -2,6 +2,7 @@
 <h1 align="center">PROGRAMADOR ESSENCIAL</h1>
 <hr>
 <h3 align="center">Anotações, estudos e dicas</h3>
+<hr>
 
 <details>
     <summary><strong>Back-End</strong></summary>
