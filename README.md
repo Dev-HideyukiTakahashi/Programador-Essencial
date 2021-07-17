@@ -108,7 +108,7 @@
         <details>
             <summary><strong>Git-Github</strong></summary>
             <br />
-            <table border=1>            
+            <table border=1 width=50% height=20%>            
                 <tr>
                     <th colspan="1">Git</th>
                 </tr>
@@ -119,7 +119,7 @@
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/ComandosGit(intermediário).MD">Git intermediário</a></td>
                 </tr>
             </table>            
-            <table border=1> 
+            <table border=1 width=50% height=20%> 
                 <tr>
                     <th colspan="1">Github</th>
                 </tr>
@@ -134,7 +134,7 @@
         <details>
             <summary><strong>Linux</strong></summary>
             <br />
-            <table border=1>            
+            <table border=1 width=50% height=20%>            
                 <tr>
                     <th colspan="1">Linux</th>
                 </tr>
