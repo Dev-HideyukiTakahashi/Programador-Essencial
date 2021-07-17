@@ -3,7 +3,6 @@
 <hr>
 <h3 align="center">Anotações, estudos e dicas</h3>
 <hr>
-
 <details>
     <summary><strong>Back-End</strong></summary>
     <br />
@@ -108,18 +107,16 @@
         <details>
             <summary><strong>Git-Github</strong></summary>
             <br />
-            <table border=1 width=50% height=20%>            
+            <table border=1>            
                 <tr>
-                    <th colspan="1">Git</th>
+                    <th colspan="2">Git</th>
                 </tr>
                 <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/ComandosGit(básico).MD">Git básico</a></td>
-                </tr>
-                <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/ComandosGit(intermediário).MD">Git intermediário</a></td>
                 </tr>
             </table>            
-            <table border=1 width=50% height=20%> 
+            <table border=1> 
                 <tr>
                     <th colspan="1">Github</th>
                 </tr>
@@ -134,14 +131,12 @@
         <details>
             <summary><strong>Linux</strong></summary>
             <br />
-            <table border=1 width=50% height=20%>            
+            <table border=1>            
                 <tr>
-                    <th colspan="1">Linux</th>
+                    <th colspan="2">Linux</th>
                 </tr>
                 <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/linux/Diretorios.md">Diretórios</a></td>
-                </tr>
-                <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/linux/Redes.md">Redes</a></td>
                 </tr>
                 <tr>
