@@ -1,15 +1,15 @@
 <p align="center">
     <!-- languages -->
-    <img src="https://img.shields.io/github/languages/count/Dev-HideyukiTakahashi/essencial?style=social"
+    <img src="https://img.shields.io/github/languages/count/Dev-HideyukiTakahashi/Programador-Essencial?style=social"
         alt="Linguagens utilizadas">
     <!-- repo size -->
-    <img src="https://img.shields.io/github/repo-size/Dev-HideyukiTakahashi/essencial?style=social"
+    <img src="https://img.shields.io/github/repo-size/Dev-HideyukiTakahashi/Programador-Essencial?style=social"
         alt="Tamanho do repositório">
     <!-- last commit -->
-    <img src="https://img.shields.io/github/last-commit/Dev-HideyukiTakahashi/essencial?style=social"
+    <img src="https://img.shields.io/github/last-commit/Dev-HideyukiTakahashi/Programador-Essencial?style=social"
         alt="Último commit">
     <!-- licence MIT -->
-    <img src="https://img.shields.io/github/license/Dev-HideyukiTakahashi/essencial?style=social" alt="Licença MIT">
+    <img src="https://img.shields.io/github/license/Dev-HideyukiTakahashi/Programador-Essencial?style=social" alt="Licença MIT">
 </p>
 <hr>
 <h1 align="center">PROGRAMADOR ESSENCIAL</h1>
