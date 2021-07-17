@@ -122,10 +122,8 @@
                 </tr>
                 <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Markdown.MD">Markdown</a></td>
-                </tr>
-                <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Github.MD">Github</a></td>
-                </tr>
+                </tr> 
             </table>
         </details>
         <details>
@@ -133,13 +131,11 @@
             <br />
             <table border=1>            
                 <tr>
-                    <th colspan="2">Linux</th>
+                    <th colspan="3">Linux</th>
                 </tr>
                 <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/linux/Diretorios.md">Diretórios</a></td>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/linux/Redes.md">Redes</a></td>
-                </tr>
-                <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/linux/Terminal.md">Terminal</a></td>
                 </tr>
             </table>
