@@ -15,25 +15,25 @@
                     <th colspan="8">Java básico</th>
                 </tr>
                 <tr>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/java/java-basico/ConceitosIniciais.md">Conceitos iniciais</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/java/java-basico/Strings.md">Strings</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/java/java-basico/Condicional.md">Estrutura condicional</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/java/java-basico/repeticao.md">Estrutura repetição</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/java/java-basico/Heranca.md">Herança e Polimorfismo</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/java/java-basico/Interface.md">Interface</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/java/java-basico/Datas.md">Data e hora</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/java/java-basico/Random.md">Número aleatório</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-basico/ConceitosIniciais.md">Conceitos iniciais</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-basico/Strings.md">Strings</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-basico/Condicional.md">Estrutura condicional</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-basico/repeticao.md">Estrutura repetição</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-basico/Heranca.md">Herança e Polimorfismo</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-basico/Interface.md">Interface</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-basico/Datas.md">Data e hora</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-basico/Random.md">Número aleatório</a></td>
             </table> 
             <table border=1>            
                 <tr>
                     <th colspan="6">Java intermediário</th>
                 </tr>  
-                <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/java/java-intermediario/Excecoes.md">Exceções</a></td>
-                <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/java/java-intermediario/Arquivos.md">Arquivos</a></td>
-                <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/java/java-intermediario/Collections.md">Collections</a></td>
-                <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/java/java-intermediario/Comparable.md">Comparable</a></td>
-                <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/java/java-intermediario/Lambda.md">Lambda</a></td>
-                <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/java/java-intermediario/Stream.md">Stream</a></td>
+                <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-intermediario/Excecoes.md">Exceções</a></td>
+                <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-intermediario/Arquivos.md">Arquivos</a></td>
+                <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-intermediario/Collections.md">Collections</a></td>
+                <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-intermediario/Comparable.md">Comparable</a></td>
+                <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-intermediario/Lambda.md">Lambda</a></td>
+                <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-intermediario/Stream.md">Stream</a></td>
             </table>  
         </details>
         <details>        
@@ -152,8 +152,8 @@
                     <th colspan="2">Git</th>
                 </tr>
                 <tr>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/ComandosGit(básico).MD">Git básico</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/ComandosGit(intermediário).MD">Git intermediário</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/git_github/ComandosGit(básico).MD">Git básico</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/git_github/ComandosGit(intermediário).MD">Git intermediário</a></td>
                 </tr>
             </table>            
             <table border=1> 
@@ -161,8 +161,8 @@
                     <th colspan="2">Github</th>
                 </tr>
                 <tr>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Markdown.MD">Markdown</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Github.MD">Github</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/git_github/Markdown.MD">Markdown</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/git_github/Github.MD">Github</a></td>
                 </tr> 
             </table>
         </details>
@@ -174,12 +174,24 @@
                     <th colspan="3">Linux</th>
                 </tr>
                 <tr>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/linux/Diretorios.md">Diretórios</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/linux/Redes.md">Redes</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/linux/Terminal.md">Terminal</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/linux/Diretorios.md">Diretórios</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/linux/Redes.md">Redes</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/linux/Terminal.md">Terminal</a></td>
                 </tr>
             </table>
         </details>
+        <details>
+            <summary><strong>Visual Studio Code</strong></summary>
+            <br />
+            <table border=1>            
+                <tr>
+                    <th colspan="1">VSCODE</th>
+                </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/vscode/vscode.md">Anotações sobre Visual Studio Code</a></td>
+                </tr>
+            </table> 
+        </details>           
     </div>
 </details>
 <hr>
