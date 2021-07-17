@@ -7,31 +7,44 @@
     <summary><strong>Back-End</strong></summary>
     <br />
     <div align="left">
-<!-- JAVA -->
-        <table border=1>
-            <tr>
-                <th colspan="2">Java</th>
-            </tr>
-            <tr>
-                <th colspan="2"></th>
-            </tr>
-            <tr>
-                <th>Tópico</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td align="center">Espaço para tópico já aprendido</td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">Espaço para tópico que está em aprendizado</td>
-                <td align="center">👨🏻‍🎓📚</td>
-            </tr>
-            <tr>
-                <td align="center">Espaço para tópico que vou aprender no futuro</td>
-                <td align="center">🌱</td>
-            </tr>
-        </table>
+        <details>        
+            <summary><strong>Java</strong></summary>
+            <br />
+            <table border=1>            
+                <tr>
+                    <th colspan="2">Java</th>
+                </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comand.MD">Espaço em branco</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comando.MD">Espaço em branco</a></td>
+                </tr>
+            </table> 
+        </details>
+        <details>        
+            <summary><strong>Node.JS</strong></summary>
+            <table border=1>            
+                <tr>
+                    <th colspan="2">Node.JS</th>
+                </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comand.MD">Espaço em branco</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comando.MD">Espaço em branco</a></td>
+                </tr>
+            </table> 
+        </details>
+        <details>        
+            <summary><strong>Kotlin</strong></summary>
+            <br />
+            <table border=1>            
+                <tr>
+                    <th colspan="2">Kotlin</th>
+                </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comand.MD">Espaço em branco</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comando.MD">Espaço em branco</a></td>
+                </tr>
+            </table> 
+        </details>
     </div>
 </details>
 
@@ -40,30 +53,43 @@
     <summary><strong>Front-End</strong></summary>
     <br />
     <div align="left">
-        <table border=1>
-            <tr>
-                <th colspan="2">HTML5</th>
-            </tr>
-            <tr>
-                <th colspan="2"></th>
-            </tr>
-            <tr>
-                <th>Tópico</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td align="center">Espaço para tópico já aprendido</td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">Espaço para tópico que está em aprendizado</td>
-                <td align="center">👨🏻‍🎓📚</td>
-            </tr>
-            <tr>
-                <td align="center">Espaço para tópico que vou aprender no futuro</td>
-                <td align="center">🌱</td>
-            </tr>
-        </table>
+        <details>        
+            <summary><strong>HTML5</strong></summary>
+            <br />
+            <table border=1>            
+                <tr>
+                    <th colspan="2">HTML5</th>
+                </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comand.MD">Principais Tags</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comando.MD">Espaço em branco</a></td>
+                </tr>
+            </table> 
+        </details>
+        <details>        
+            <summary><strong>CSS</strong></summary>
+            <table border=1>            
+                <tr>
+                    <th colspan="2">CSS</th>
+                </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comand.MD">Espaço em branco</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comando.MD">Espaço em branco</a></td>
+                </tr>
+            </table> 
+        </details>        
+        <details>        
+            <summary><strong>JavaScript</strong></summary>   
+            <table border=1>            
+                <tr>
+                    <th colspan="2">JavaScript</th>
+                </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comand.MD">Espaço em branco</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comando.MD">Espaço em branco</a></td>
+                </tr>
+            </table>  
+        </details>              
     </div>
 </details>
 
@@ -72,30 +98,28 @@
     <summary><strong>Data-Base</strong></summary>
     <br />
     <div align="left">
-        <table border=1>
-            <tr>
-                <th colspan="2">MySQL</th>
-            </tr>
-            <tr>
-                <th colspan="2"></th>
-            </tr>
-            <tr>
-                <th>Tópico</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td align="center">Espaço para tópico já aprendido</td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td align="center">Espaço para tópico que está em aprendizado</td>
-                <td align="center">👨🏻‍🎓📚</td>
-            </tr>
-            <tr>
-                <td align="center">Espaço para tópico que vou aprender no futuro</td>
-                <td align="center">🌱</td>
-            </tr>
-        </table>
+        <details>        
+            <summary><strong>SQL</strong></summary>
+            <br />
+            <table border=1>            
+                <tr>
+                    <th colspan="2">MySQL</th>
+                </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comand.MD">Comandos</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comando.MD">Dicas</a></td>
+                </tr>
+            </table> 
+            <table border=1>            
+                <tr>
+                    <th colspan="2">PostgreSQL</th>
+                </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comand.MD">Comandos</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comando.MD">Dicas</a></td>
+                </tr>
+            </table> 
+        </details>       
     </div>
 </details>
 
@@ -118,7 +142,7 @@
             </table>            
             <table border=1> 
                 <tr>
-                    <th colspan="1">Github</th>
+                    <th colspan="2">Github</th>
                 </tr>
                 <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Markdown.MD">Markdown</a></td>
