@@ -75,4 +75,5 @@
 
 ---
 :penguin:[Guia Linux](https://guialinux.uniriotec.br/)
+
 :point_right: [Programador Essencial](https://github.com/Dev-HideyukiTakahashi/Programador-Essencial)
