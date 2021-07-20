@@ -12,6 +12,16 @@
  * Comando para adicionar um repositório remoto no Github:
     `git remote add origin https://github.com/exemplo/exemplo`
 
+* Comando para corresponder uma URL remota a um nome:
+`git remote add`
+    * Exemplo: `git remote add origin  <URL_REMOTO> `
+* Comando para alterar a URL de um repositório remoto existente.
+`git remote set-url`
+    * Em caso de alteração do nome do repositório no github: `git remote set-url origin <URL_REMOTO>`
+
+* Comando para remover uma URL remota do seu repositório.
+`git remote rm`
+
 ---
 
 ## 2 - Push Remoto
