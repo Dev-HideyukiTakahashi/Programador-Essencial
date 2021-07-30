@@ -89,8 +89,17 @@
                     <th colspan="2">CSS</th>
                 </tr>
                 <tr>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comand.MD">Espaço em branco</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/">Espaço em branco</a></td>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comando.MD">Espaço em branco</a></td>
+                </tr>
+            </table> 
+            <table border=1>            
+                <tr>
+                    <th colspan="2">CSS Flexbox</th>
+                </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/flexbox/container.md">Flex Container</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/flexbox/item.md">Flex Item</a></td>
                 </tr>
             </table> 
         </details>        
