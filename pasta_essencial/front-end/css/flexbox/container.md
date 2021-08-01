@@ -60,13 +60,13 @@
   ```css
   .flex {
     flex-direction: row;
-    // Os itens ficam em linha
+    /* Os itens ficam em linha*/
     flex-direction: row-reverse;
-    // Os itens ficam em linha reversa, ou seja 3, 2, 1.
+    /* Os itens ficam em linha reversa, ou seja 3, 2, 1.*/
     flex-direction: column;
-    // Os itens ficam em uma única coluna, um embaixo do outro.
+    /* Os itens ficam em uma única coluna, um embaixo do outro.*/
     flex-direction: column-reverse;
-    // Os itens ficam em uma única coluna, um embaixo do outro, porém em ordem reversa: 3, 2 e 1.
+    /* Os itens ficam em uma única coluna, um embaixo do outro, porém em ordem reversa: 3, 2 e 1.*/
   }
   ```
 
@@ -81,15 +81,15 @@
   ```css
   .flex {
     justify-content: flex-start;
-    // Alinha os itens ao início do container.
+    /* Alinha os itens ao início do container.*/
     justify-content: flex-end;
-    // Alinha os itens ao final do container.
+    /* Alinha os itens ao final do container.*/
     justify-content: center;
-    // Alinha os itens ao centro do container.
+    /* Alinha os itens ao centro do container.*/
     justify-content: space-between;
-    // Cria um espaçamento igual entre os elementos. Mantendo o primeiro grudado no início e o último no final.
+    /* Cria um espaçamento igual entre os elementos. Mantendo o primeiro grudado no início e o último no final.*/
     justify-content: space-around;
-    // Cria um espaçamento entre os elementos. Os espaçamentos do meio são duas vezes maiores que o inicial e final.
+    /* Cria um espaçamento entre os elementos. Os espaçamentos do meio são duas vezes maiores que o inicial e final.*/
   }
   ```
 
@@ -104,15 +104,15 @@
   ```css
   .flex {
     align-items: stretch;
-    // Valor padrão, ele que faz com que os flex itens cresçam igualmente.
+    /* Valor padrão, ele que faz com que os flex itens cresçam igualmente.*/
     align-items: flex-start;
-    // Alinha os itens ao início.
+    /* Alinha os itens ao início.*/
     align-items: flex-end;
-    // Alinha os itens ao final.
+    /* Alinha os itens ao final.*/
     align-items: center;
-    // Alinha os itens ao centro.
+    /* Alinha os itens ao centro.*/
     align-items: baseline;
-    // Alinha os itens de acordo com a linha base da tipografia.
+    /* Alinha os itens de acordo com a linha base da tipografia.*/
   }
   ```
 
@@ -127,17 +127,17 @@
   ```css
   .flex {
     align-content: stretch;
-    // Valor padrão, ele que faz com que os flex itens cresçam igualmente na vertical.
+    /* Valor padrão, ele que faz com que os flex itens cresçam igualmente na vertical.*/
     align-content: flex-start;
-    // Alinha todas as linhas de itens ao início.
+    /* Alinha todas as linhas de itens ao início.*/
     align-content: flex-end;
-    // Alinha todas as linhas de itens ao final.
+    /* Alinha todas as linhas de itens ao final.*/
     align-content: center;
-    // Alinha todas as linhas de itens ao centro.
+    /* Alinha todas as linhas de itens ao centro.*/
     align-content: space-between;
-    // Cria um espaçamento igual entre as linhas. Mantendo a primeira grudada no topo e a última no bottom.
+    /* Cria um espaçamento igual entre as linhas. Mantendo a primeira grudada no topo e a última no bottom.*/
     align-content: space-around;
-    // Cria um espaçamento entre as linhas. Os espaçamentos do meio são duas vezes maiores que o top e bottom.
+    /* Cria um espaçamento entre as linhas. Os espaçamentos do meio são duas vezes maiores que o top e bottom.*/
   }
   ```
 ---
