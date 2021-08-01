@@ -5,24 +5,25 @@
     <summary><strong>Configurações</strong></summary>
     <p>Minhas preferências no vscode.<br>
     Atalho para conf. Json: <b>Ctrl + Shift + p , preferências, configurações Json</b></p>
-    <code>{<br>
-    &nbsp;&nbsp;"editor.suggestSelection": "first",    
-    &nbsp;&nbsp;"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    &nbsp;&nbsp;"files.autoSave": "afterDelay",
-    &nbsp;&nbsp;"editor.wordWrap": "on",
-    &nbsp;&nbsp;"explorer.confirmDelete": false,
-    &nbsp;&nbsp;"liveServer.settings.donotShowInfoMsg": true,
-    &nbsp;&nbsp;"editor.fontSize": 16,
-    &nbsp;&nbsp;"editor.lineHeight": 25,
-    &nbsp;&nbsp;"editor.tabSize": 2,
-    &nbsp;&nbsp;"workbench.startupEditor": "newUntitledFile",
-    &nbsp;&nbsp;"workbench.iconTheme": "material-icon-theme",
-    &nbsp;&nbsp;"workbench.colorTheme": "Dracula",
-    &nbsp;&nbsp;"liveServer.settings.donotVerifyTags": true,
-    &nbsp;&nbsp;"editor.formatOnSave": true,
-    &nbsp;&nbsp;"[html]": {"editor.defaultFormatter": "esbenp.prettier-vscode"} <br>
+    <code><pre>
+{    
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "explorer.confirmDelete": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontSize": 16,
+    "editor.lineHeight": 25,
+    "editor.tabSize": 2,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.formatOnSave": true,
+    "[html]": {"editor.defaultFormatter": "esbenp.prettier-vscode"}
 }
-</code>
+    </pre></code>
 </details>
 <details>
     <summary><strong>Extensões</strong></summary>
