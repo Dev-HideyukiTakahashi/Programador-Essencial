@@ -210,6 +210,9 @@
     <img src="/src/img/programador.gif" alt="programador">
 </p>
 <p align="center">
+    <!-- languages -->
+    <img src="https://img.shields.io/github/languages/count/Dev-HideyukiTakahashi/Programador-Essencial?style=social"
+        alt="Linguagens utilizadas">
     <!-- repo size -->
     <img src="https://img.shields.io/github/repo-size/Dev-HideyukiTakahashi/Programador-Essencial?style=social"
         alt="Tamanho do repositório">
