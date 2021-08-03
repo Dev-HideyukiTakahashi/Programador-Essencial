@@ -90,7 +90,7 @@
                 </tr>
                 <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/">Espaço em branco</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comando.MD">Espaço em branco</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comando.MD">Espaço em branco</a></td>                    
                 </tr>
             </table> 
             <table border=1>            
@@ -100,6 +100,7 @@
                 <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/css/flexbox/container.md">Flex Container</a></td>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/css/flexbox/item.md">Flex Item</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/css/flexbox/flexblog">Projeto exemplo</a></td>
                 </tr>
             </table> 
         </details>        

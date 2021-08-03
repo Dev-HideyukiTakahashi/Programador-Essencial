@@ -6,7 +6,7 @@
     <p>Minhas preferências no vscode.<br>
     Atalho para conf. Json: <b>Ctrl + Shift + p , preferências, configurações Json</b></p>
     <code><pre>
-{    
+{            
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "files.autoSave": "afterDelay",
@@ -28,7 +28,8 @@
 <details>
     <summary><strong>Extensões</strong></summary>
         <ul>
-    <li><p><strong>Code Runner: </strong> essa extensão serve para possibilitar/facilitar a execução de código em várias linguagens diferentes.</p></li>
+    <li><strong>Code Runner: </strong> essa extensão serve para possibilitar/facilitar a execução de código em várias linguagens diferentes.</li>
+    <li><strong>Live Server:</strong> Simula um servidor local para páginas dinâmicas e estáticas.</</li>
     </ul>
 </details>
 <details>
