@@ -1,6 +1,7 @@
 # :hammer_and_wrench:Principais Tags
 ---
 * Site recomendado para output dos códigos: https://codepen.io/pen/
+* Site recomendado com as tags para HTML em português: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
 ---
 ## :hammer:Tags para textos:
 
