@@ -77,7 +77,7 @@
                     <th colspan="2">HTML5</th>
                 </tr>
                 <tr>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comand.MD">Principais Tags</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Programador-Essencial/blob/master/pasta_essencial/front-end/html/principais-tags.md">Principais Tags</a></td>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comando.MD">Espaço em branco</a></td>
                 </tr>
             </table> 

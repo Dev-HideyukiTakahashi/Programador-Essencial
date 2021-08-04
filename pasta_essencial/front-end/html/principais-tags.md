@@ -126,7 +126,24 @@
 ---
 
 ## :hammer:Tags para formulário:
-
+```html
+<!--Formulário-->
+<form action="enviar.php" method="POST" name="form">
+    <div>
+        <label for="nome">Nome</label>
+        <input type="text" id="nome" required >
+    </div>
+    <div>
+        <label for="email">Email</label>
+        <input type="text" id="email" required >
+    </div>
+    <div>
+        <label for="mensagem">Mensagem</label>
+        <textarea name="mensagem" id="mensagem" cols="30" rows="10" required>Digite o texto aqui</textarea>
+        <button id="enviar" name="enviar" type="submit">Solicitar orçamento</button>
+    </div>
+</form>
+```
 
 ---
 
