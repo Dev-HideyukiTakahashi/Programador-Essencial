@@ -95,7 +95,7 @@
             </table> 
             <table border=1>            
                 <tr>
-                    <th colspan="2">CSS Flexbox</th>
+                    <th colspan="3">CSS Flexbox</th>
                 </tr>
                 <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/css/flexbox/container.md">Flex Container</a></td>
