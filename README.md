@@ -78,7 +78,7 @@
                 </tr>
                 <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Programador-Essencial/blob/master/pasta_essencial/front-end/html/principais-tags.md">Principais Tags</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/html/utilidades.md">Utilidades - Sites</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/html/utilidades.md">Espaço em branco</a></td>
                 </tr>
             </table> 
         </details>
@@ -201,7 +201,19 @@
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/vscode/vscode.md">Anotações sobre Visual Studio Code</a></td>
                 </tr>
             </table> 
-        </details>           
+        </details>     
+                <details>
+            <summary><strong>Extras</strong></summary>
+            <br />
+            <table border=1>            
+                <tr>
+                    <th colspan="1">Utilidades-sites</th>
+                </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/utilidades_sites/utilidades.md">Links úteis</a></td>
+                </tr>
+            </table> 
+        </details>                 
     </div>
 </details>
 <hr>
