@@ -15,5 +15,14 @@
 * https://www.flaticon.com/br/
 
 ---
+## :hammer: Site para testar códigos HTML/CSS
 
+* https://codepen.io/
 
+---
+## :hammer: Extensões úteis para o navegador
+
+* WhatFont : identificar as fontes dos sites.
+* Colorzilla : identificar as cores dos sites.
+* Lightshot : captura de tela no navegador.
+* Dark Reader : ferramente para tema dark no navegador
