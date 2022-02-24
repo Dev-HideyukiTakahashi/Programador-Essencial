@@ -1,7 +1,7 @@
 # :ambulance:Kit de primeiros socorros.
 ---
 
-![Kit](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/git_github/primeiros-socorros.PNG)
+![Kit](https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/git_github/img/primeiros-socorros.PNG)
 
 Fonte: Prof. Dr. Nelio Alves
 

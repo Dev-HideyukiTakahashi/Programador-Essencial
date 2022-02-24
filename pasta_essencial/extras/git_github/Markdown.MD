@@ -8,6 +8,9 @@
 
 ---
 ## Formatando em Markdown
+**Para entender melhor a sintaxe, ver no modo editar.**
+
+---
 
 * Para colocar em  negrito basta adicionar <**> no começo e final da frase.
 
