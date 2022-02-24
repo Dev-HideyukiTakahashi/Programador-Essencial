@@ -159,11 +159,12 @@
             <br />
             <table border=1>            
                 <tr>
-                    <th colspan="2">Git</th>
+                    <th colspan="3">Git</th>
                 </tr>
                 <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/git_github/ComandosGit(básico).MD">Git básico</a></td>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/git_github/ComandosGit(intermediário).MD">Git intermediário</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/git_github/PrimeirosSocorros.MD">Kit primeiros socorros</a></td>
                 </tr>
             </table>            
             <table border=1> 

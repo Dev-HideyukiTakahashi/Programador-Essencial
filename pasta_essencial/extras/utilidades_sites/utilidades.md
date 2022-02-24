@@ -25,4 +25,5 @@
 * WhatFont : identificar as fontes dos sites.
 * Colorzilla : identificar as cores dos sites.
 * Lightshot : captura de tela no navegador.
-* Dark Reader : ferramente para tema dark no navegador
+* Dark Reader : ferramente para tema dark no navegador.
+* Page Ruller : útil para medidas na web.
