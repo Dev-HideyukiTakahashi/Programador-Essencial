@@ -27,7 +27,8 @@
 ---
 #### Código Exemplo:
 
-```package exemplo;
+```Java
+package exemplo;
 
 import java.util.Random;
 
@@ -47,8 +48,6 @@ public class GerarNumeroAleatorio {
         System.out.println("Número real aleatório de 0 até 100: " + numeroRealAleatorio_0_a_100);
 
     }
-
-}
 }
 ```
 
