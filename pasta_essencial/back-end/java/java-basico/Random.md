@@ -27,7 +27,7 @@
 ---
 #### Código Exemplo:
 
-```package bluerayInterface;
+```package exemplo;
 
 import java.util.Random;
 
