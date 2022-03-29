@@ -38,23 +38,24 @@ public class GerarNumeroAleatorio {
 
         Random random = new Random();
 
-        int numeroInteiroAleatorio_0_a_10 = random.nextInt(10);
-        System.out.println("Número inteiro aleatório de 0 até 10: " + numeroInteiroAleatorio_0_a_10);
+        int numeroInteiroAleatorio_0_a_100 = random.nextInt(100);
+        System.out.println("Número inteiro aleatório de 0 até 100: " + numeroInteiroAleatorio_0_a_100);
 
         double numeroRealAleatorio_0_a_1 = random.nextDouble();
         System.out.println("Número real aleatório de 0 até 1: " + numeroRealAleatorio_0_a_1);
 
-        double numeroRealAleatorio_0_a_10 = random.nextDouble() * 10;
-        System.out.println("Número real aleatório de 0 até 10: " + numeroRealAleatorio_0_a_10);
+        double numeroRealAleatorio_0_a_100 = random.nextDouble() * 10;
+        System.out.println("Número real aleatório de 0 até 100: " + numeroRealAleatorio_0_a_100);
 
     }
-
 }
 ```
 
-##### Exemplo de saída:
+#### Exemplo de saída:
 Número inteiro aleatório de 0 até 100: 43
+
 Número real aleatório de 0 até 1: 0.16296306514069792
+
 Número real aleatório de 0 até 100: 46.890481714549026
 
 ---
