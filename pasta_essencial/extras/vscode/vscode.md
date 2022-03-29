@@ -30,6 +30,7 @@
         <ul>
     <li><strong>Code Runner: </strong> essa extensão serve para possibilitar/facilitar a execução de código em várias linguagens diferentes.</li>
     <li><strong>Live Server:</strong> Simula um servidor local para páginas dinâmicas e estáticas.</</li>
+        <li><strong>Markdown Preview Enhanced:</strong> É possível ver um preview como a página vai ficar com markdown.</</li>
     </ul>
 </details>
 <details>
