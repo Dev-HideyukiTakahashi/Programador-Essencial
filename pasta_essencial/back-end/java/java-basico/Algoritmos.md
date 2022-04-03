@@ -1,6 +1,10 @@
-# :gem: Como gerar um número aleatório em Java
 
+# :gem:Algoritmos
 ---
+
+<details>
+<summary><strong>Número aleatório</strong></summary>
+
 
 * Primeiro você precisa importar a classe `Random` do pacote java.util
 
@@ -10,8 +14,7 @@
 
    * `Random random = new Random();`
 
----
-
+   
 #### Exemplos:
 
 * Gerando números inteiros aleatórios de 0 à 100:
@@ -57,10 +60,54 @@ Número inteiro aleatório de 0 até 100: 43
 Número real aleatório de 0 até 1: 0.16296306514069792
 
 Número real aleatório de 0 até 100: 46.890481714549026
+</details> 
 
----
+<details>
+<summary><strong>Valor no padrão de moeda local</strong></summary>
 
-Fonte: https://dicasdejava.com.br/como-gerar-um-numero-aleatorio-em-java/
+
+* OBS: o caractere "**¤**" serve para exibir o Label monetário, no caso do Brasil exibe o R$.
+* Exemplo de código:
+
+```JAVA
+NumberFormat nf = new DecimalFormat("¤ ###,###,##0.00", 
+			new DecimalFormatSymbols(new Locale("pt","BR")));
+
+System.out.println((nf.format(1788.00)));
+```
+`R$ 1.788,00`
+
+* Para criar um método em uma classe retornando o valor formatado, é preciso um método de String formatado para Double, pois o método só retorna uma String, exemplo:
+
+```Java
+public static NumberFormat nf = new DecimalFormat("¤ ###,###,##0.00", 
+      new DecimalFormatSymbols(new Locale("pt", "BR"));
+
+public static String formataMoeda(Double valor) {
+   return nf.format(valor);
+}
+
+
+/////Na chamada(application):
+   double preco = 1788.00;
+   System.out.println(formataMoeda(preco));
+
+```
+`Saída:$ 1,788.00`
+
+
+
+</details>
+
+
+
+
+
+
+
+
+
+
 
 ---
 
