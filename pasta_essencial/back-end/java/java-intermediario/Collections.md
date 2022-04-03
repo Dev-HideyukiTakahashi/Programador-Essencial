@@ -417,8 +417,9 @@ System.out.println(e);
         * Se equals e hashCode não existir, é usada comparação de ponteiros
     * clear() - limpa a lista
     * size() - tamanho da lista
-    * keySet() - retorna um Set<K>
-    * values() - retorna um Collection<V>
+    * keySet() - retorna um Set<K> (retorna as chaves)
+    * values() - retorna um Collection<V> (retorna os valores)
+    * entrySet() - retorna a associação<K, V>
 
 ---
 
