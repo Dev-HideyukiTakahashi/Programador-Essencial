@@ -3,7 +3,7 @@
 ---
 
 <details>
-<summary><strong>Número aleatório</strong></summary>
+<summary><strong>Gerar número aleatório</strong></summary>
 
 
 * Primeiro você precisa importar a classe `Random` do pacote java.util
@@ -63,7 +63,7 @@ Número real aleatório de 0 até 100: 46.890481714549026
 </details> 
 
 <details>
-<summary><strong>Valor no padrão de moeda local</strong></summary>
+<summary><strong>Formatar valor no padrão de moeda local</strong></summary>
 
 
 * OBS: o caractere "**¤**" serve para exibir o Label monetário, no caso do Brasil exibe o R$.

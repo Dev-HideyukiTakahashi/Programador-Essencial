@@ -22,7 +22,7 @@
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-basico/Heranca.md">Herança e Polimorfismo</a></td>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-basico/Interface.md">Interface</a></td>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-basico/Datas.md">Data e hora</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-basico/Algoritmos.md">Número aleatório</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-basico/Algoritmos.md">Algoritmos</a></td>
             </table> 
             <table border=1>            
                 <tr>
@@ -35,20 +35,7 @@
                 <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-intermediario/Lambda.md">Lambda</a></td>
                 <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-intermediario/Stream.md">Stream</a></td>
             </table>  
-        </details>
-        <details>        
-            <summary><strong>Node.JS</strong></summary>
-            <table border=1>            
-                <tr>
-                    <th colspan="2">Node.JS</th>
-                </tr>
-                <tr>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comand.MD">Espaço em branco</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comando.MD">Espaço em branco</a></td>
-                </tr>
-            </table> 
-        </details>
-        <details>        
+        </details>     
             <summary><strong>Kotlin</strong></summary>
             <br />
             <table border=1>            
