@@ -36,6 +36,7 @@
                 <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-intermediario/Stream.md">Stream</a></td>
             </table>  
         </details>     
+        <details>  
             <summary><strong>Kotlin</strong></summary>
             <br />
             <table border=1>            
