@@ -9,6 +9,21 @@
 6. :open_book:`Optionals`
 ---
 
+Sugestões para utilizar collections
+* Se for necessário manter elementos duplicados, usar Lista! Contudo, se for necessário fazer muita pesquisa, evite o uso de Lista!
+* Se não for necessário manter elementos duplicados e nem usar chaves, usar Conjunto! Contudo, se for necessário o uso de chaves, usar Mapa!
+* Qual a implementação de Lista que deverá ser escolhida?
+	* Usar ArrayList sefor necessário acessar os elementos por índice(ex. pesquisa binária);
+	* Usar LinkedList sefor necessário inserir ou removerelementos do meio da Lista com frequência.
+* Qual a implementação de Conjunto que deverá ser escolhida?
+	* Usar HashSet senãofor necessário obter um conjuntoordenado;
+	* Usar TreeSet se for necessário obter um conjuntoordenado.
+* Qual a implementação de Mapa que deverá ser escolhida?
+	* Usar HashMap senãofor necessário obter um mapaordenado;
+	* Usar TreeMap se for necessário obter um mapaordenado.
+
+---
+
 ## 1. :floppy_disk: `java.util.List`
 
 * Implementações mais comuns:
