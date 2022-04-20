@@ -44,8 +44,8 @@
                 <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-intermediario/Comparable.md">Comparable</a></td>
                 <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-intermediario/Lambda.md">Lambda</a></td>
                 <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-intermediario/Stream.md">Stream</a></td>
-            </table>  
-        </details>  
+            </table> 
+        </details>          
     </div>
 </details>
 
