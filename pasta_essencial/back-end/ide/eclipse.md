@@ -16,7 +16,7 @@
 
 * Clique em Change e informe a URL do repositório remoto
 
-* Informe seu User e **Password** de acesso ao repositório remoto 
+* Informe seu User e <s>Password</s> de acesso ao repositório remoto 
 * **Atenção** : O sistema de autenticação no github mudou, a partir de agora podemos gerar um "token" de autenticação:
   * github > settings > <>Developer settings > Personal access tokens
   * O token gerado será utilizado no campo de password
