@@ -14,9 +14,9 @@
                 <tr>
                     <th colspan="2">IDE</th>
                 </tr>
-                <tr>                          <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-basico/ConceitosIniciais.md">Eclipse</a>
+                <tr>                          <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Programador-Essencial/blob/master/pasta_essencial/back-end/ide/eclipse.md">Eclipse</a>
                 </td>
-                <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-basico/ConceitosIniciais.md">Eclipse</a>
+                <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Programador-Essencial/blob/master/pasta_essencial/back-end/ide/intelliJ.md">IntelliJ</a>
                 </td>
                 </tr>
             </table>
