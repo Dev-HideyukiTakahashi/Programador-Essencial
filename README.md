@@ -45,7 +45,19 @@
                 <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-intermediario/Lambda.md">Lambda</a></td>
                 <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-intermediario/Stream.md">Stream</a></td>
             </table> 
-        </details>          
+        </details> 
+                <details>        
+            <summary><strong>Node.js</strong></summary>
+            <br />
+            <table border=1>            
+                <tr>
+                    <th colspan="2">Básico</th>
+                </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Programador-Essencial/blob/master/pasta_essencial/back-end/node.js/basico.md">Principais Tags</a></td>
+                </tr>
+            </table> 
+        </details>         
     </div>
 </details>
 
