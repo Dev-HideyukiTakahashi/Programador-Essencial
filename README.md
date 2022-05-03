@@ -14,7 +14,8 @@
                 <tr>
                     <th colspan="2">IDE</th>
                 </tr>
-                <tr>                          <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Programador-Essencial/blob/master/pasta_essencial/back-end/ide/eclipse.md">Eclipse</a>
+                <tr>                         
+                 <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Programador-Essencial/blob/master/pasta_essencial/back-end/ide/eclipse.md">Eclipse</a>
                 </td>
                 <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Programador-Essencial/blob/master/pasta_essencial/back-end/ide/intelliJ.md">IntelliJ</a>
                 </td>
@@ -54,7 +55,7 @@
                     <th colspan="2">Básico</th>
                 </tr>
                 <tr>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Programador-Essencial/blob/master/pasta_essencial/back-end/node.js/basico.md">Principais Tags</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Programador-Essencial/blob/master/pasta_essencial/back-end/node.js/basico.md">//TODO</a></td>
                 </tr>
             </table> 
         </details>         
@@ -107,8 +108,8 @@
                     <th colspan="2">JavaScript</th>
                 </tr>
                 <tr>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comand.MD">Espaço em branco</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comando.MD">Espaço em branco</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/javascript/tipos.md">Tipos de variáveis</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/javascript/funcoes-objetos.md">Funções - Objetos</a></td>
                 </tr>
             </table>  
         </details>              
