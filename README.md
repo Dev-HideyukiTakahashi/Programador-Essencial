@@ -46,8 +46,29 @@
                 <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-intermediario/Lambda.md">Lambda</a></td>
                 <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-intermediario/Stream.md">Stream</a></td>
             </table> 
-        </details> 
-                <details>        
+            <table border=1>            
+                <tr>
+                    <th colspan="5">Java avançado</th>
+                </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/jdbc.md">JDBC</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/jpa.md">JPA</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/jdbc.md">Hibernate</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/jdbc.md">JavaFX</a></td>
+                    </tr>
+                </table> 
+                <table border=1>            
+                <tr>
+                    <th colspan="5">Spring</th>
+                </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/spring/springboot.md">Springboot</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/spring/springmvc.md">Spring MVC</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/spring/springdata.md">Spring Data</a></td>
+                    </tr>
+                </table> 
+            </details> 
+        <details>        
             <summary><strong>Node.js</strong></summary>
             <br />
             <table border=1>            

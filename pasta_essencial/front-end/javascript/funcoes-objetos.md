@@ -90,8 +90,60 @@ quadrado.area(5); // 25
 quadrado.perimetro(5); // 20
 ```
 
+#### Construtores:
+
+- Sintaxe
+
+```javascript
+function Carro() {
+  this.marca = "Marca";
+  this.preco = 0;
+}
+
+const honda = new Carro();
+honda.marca = "Honda";
+honda.preco = 4000;
+
+console.log(honda);
+//Carro {marca: 'Honda', preco: 4000}
+```
+
+- Parâmetros
+
+```javascript
+function Dom(seletor) {
+  const element = document.querySelector(seletor);
+  this.ativo = function (classe) {
+    element.classList.add(classe);
+  };
+}
+
+const lista = new Dom("ul");
+lista.ativo("ativo");
+
+const lastLi = new Dom("li:last-child");
+lastLi.ativo("ativo");
+```
+
+---
+
+### :gem:ForEach
+
+- Sintaxe exemplo:
+  - É possível passar nos argumentos (item, index, array).
+
+```javascript
+const imagens = document.querySelectorAll("img"); // seleciona todas 'img' que estão no html
+
+imgs.forEach(function (item) {
+  console.log(item);
+}); // imprime cada item(nome genérico) da 'lista'
+
+imgs.forEach((item) => {
+  console.log(item);
+}); // mesma função com programação funcional
+```
+
 ---
 
 **Referência Origamid** :mega:[ https://www.origamid.com/](https://www.origamid.com/)
-
-
