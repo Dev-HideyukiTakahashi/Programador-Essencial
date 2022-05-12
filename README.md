@@ -151,19 +151,10 @@
                     <th colspan="2">MySQL</th>
                 </tr>
                 <tr>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/data-base/mysqlConfig.md">Configurando</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/data-base/mysql.md">MySQL</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/data-base/mysqlConfig.md">Configurando MySQL</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/data-base/sql.md">SQL</a></td>
                 </tr>
-            </table> 
-            <table border=1>            
-                <tr>
-                    <th colspan="2">PostgreSQL</th>
-                </tr>
-                <tr>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comand.MD">Comandos</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comando.MD">Dicas</a></td>
-                </tr>
-            </table> 
+            </table>             
         </details>       
     </div>
 </details>
