@@ -54,8 +54,7 @@
                      <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/properties.md">Properties</a></td>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/jdbc.md">JDBC</a></td>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/jpa.md">JPA</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/jdbc.md">Hibernate</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/jdbc.md">JavaFX</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/javafx.md">JavaFX</a></td>
                     </tr>
                 </table> 
                 <table border=1>            
@@ -63,9 +62,7 @@
                     <th colspan="5">Spring</th>
                 </tr>
                 <tr>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/spring/springboot.md">Springboot</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/spring/springmvc.md">Spring MVC</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/spring/springdata.md">Spring Data</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/spring/spring.md">Spring</a></td>
                     </tr>
                 </table> 
             </details> 
@@ -213,6 +210,18 @@
                 </tr>
             </table> 
         </details>     
+                <details>
+            <summary><strong>Maven</strong></summary>
+            <br />
+            <table border=1>            
+                <tr>
+                    <th colspan="1">Maven</th>
+                </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/maven/maven.md">Anotações Maven</a></td>
+                </tr>
+            </table> 
+        </details> 
                 <details>
             <summary><strong>Extras</strong></summary>
             <br />
