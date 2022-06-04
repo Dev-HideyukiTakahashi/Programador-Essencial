@@ -55,16 +55,16 @@
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/jdbc.md">JDBC</a></td>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/jpa.md">JPA</a></td>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/javafx.md">JavaFX</a></td>
-                    </tr>
+                </tr>
                 </table> 
                 <table border=1>            
                 <tr>
                     <th colspan="5">Spring</th>
                 </tr>
                 <tr>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/spring/spring.md">Spring</a></td>
-                    </tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/spring/spring.md">Spring</a></td>                    
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/spring/springdata.md">Spring Data</a></td>
+                </tr>
                 </table>                 
             </details> 
         <details>        
