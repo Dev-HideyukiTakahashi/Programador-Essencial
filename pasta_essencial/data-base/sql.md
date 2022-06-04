@@ -243,6 +243,12 @@ GROUP by sobrenome;
 
 ##### Comandos de alteração de schema:
 
+- Alterando o nome da coluna na tabela
+```
+ALTER TABLE tabela_exemplo 
+CHANGE id_exemplo novo_id_exemplo integer(5) unsigned; /* é necessário colocar todos atributos referentes ao novo nome */
+```
+
 - Removendo um esquema do banco de dados
 
 ```
