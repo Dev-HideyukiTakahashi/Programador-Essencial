@@ -66,19 +66,7 @@
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/spring/springdata.md">Spring Data</a></td>
                 </tr>
                 </table>                 
-            </details> 
-        <details>        
-            <summary><strong>Node.js</strong></summary>
-            <br />
-            <table border=1>            
-                <tr>
-                    <th colspan="2">Básico</th>
-                </tr>
-                <tr>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Programador-Essencial/blob/master/pasta_essencial/back-end/node.js/basico.md">//TODO</a></td>
-                </tr>
-            </table> 
-        </details>         
+            </details>        
     </div>
 </details>
 

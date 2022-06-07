@@ -1,4 +1,4 @@
-#:leaves: Spring Data
+# :leaves: Spring Data
 
 ---
 
@@ -34,6 +34,20 @@ public class Client{
 	@ManyToOne // muitos para um
 	@JoinColumn(name="client_id") // criamos uma nova coluna no banco de dados para identificar a chave estrangeira
 	private User client;
+```
+
+-Exemplo de método para garantir a relação bidirecional e evitar dados duplicados
+
+- Classe Filme
+
+```java
+	public void addAtor(Ator ator) {
+		if(ator != null && !getAtores().contains(ator)) {
+			getAtores().add(ator);
+
+			if(!ator.getFilmes().contains(this))
+			ator.getFilmes().add(this);
+		}
 ```
 
 **@OneToMany**
