@@ -104,8 +104,10 @@ public static String formataMoeda(Double valor) {
 
 ```java
    NumberFormat nf = NumberFormat.getCurrencyInstance(new Locale("pt", "BR"));
-   		builder.append(", Preço unitário: ");
-		builder.append(nf.format(getPreco()));
+
+   Double preco = 2000.00;
+   System.out.println("Preço unitário: ");
+	System.out.println(nf.format(preco));
 ```
 
 `Saída: Preço unitário: R$ 2.000,00`
