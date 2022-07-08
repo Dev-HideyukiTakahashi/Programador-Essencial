@@ -2,79 +2,101 @@
 
 ---
 
-* Os lambdas obedecem o conceito do paradigma funcional, com eles podemos facilitar a legebilidade do nosso código, além disso com a nova API Funcional do Java podemos ter alta produtividade para lidar com objetos.
-
+- Os lambdas obedecem o conceito do paradigma funcional, com eles podemos facilitar a legebilidade do nosso código, além disso com a nova API Funcional do Java podemos ter alta produtividade para lidar com objetos.
 
 ---
+
 ### :books:Interfaces Funcionais
 
-* São interfaces que possuem apenas um método abstrato. Exemplo:
-```JAVA
-public interface Funcao{
-    String gerar(String valor);
-}
-```
+Geralmente as interfaces funcionais possuem uma anotação em nível de classe (@FuncionalInterface), para forçar o compilador a apontar um erro se a interface não estiver de acordo com as regras de uma interface funcional, útil para um futuro programador que for utilizar a classe.
 
-Geralmente as interfaces funcionais possuem uma anotação em nível de classe (@FuncionalInterface), para forçar o compilador a apontar um erro se a interface não estiver de acordo com as regras de uma interface funcional. 
-
-* Exemplo com interface Função:
+- Exemplo com interface Função:
 
 ```JAVA
-public class Principal {
-    public static void main(String[] args) {
-        Funcao colocarPrefixoSenhorNaString = new Funcao(){
-            @Override
-            public String gerar(String valor) {
-                return "Sr. "+valor;
-            }
-        };
-        System.out.println(colocarPrefixoSenhorNaString.gerar("Joao"));
-    }
-}
+/*Criando a propria functional interface
+ * OBS: Implicitamente o Java reconhece que o método é abstrato,
+ * poderia ter também um método DEFAULT, ou um método STATIC
+ * mas nunca mais de 1 método abstrato,
+ */
+
+package application;
 
 @FunctionalInterface
-interface Funcao{
-    String gerar(String valor);
-}
+public interface Calculo {
 
+	//Não podemos ter mais de 1 método na interface funcional
+	Integer executar(int a,  int b);
+
+	default String aceitoDefault() {
+		return "É aceitável um método DEFAULT em uma @FunctionalInterface";
+	}
+
+	static String aceitoStatic() {
+		return "É aceitável um método STATIC em uma @FunctionalInterface";
+	}
+}
 ```
 
-* Agora que sabemos como se define uma interface funcional, podemos aprender como se define uma lambda.
-* Estrutura da Lambda:
-    * `InterfaceFuncional nomeVariavel = parametro -> logica`
+- Agora que sabemos como se define uma interface funcional, podemos aprender como se define uma lambda.
+- Estrutura da Lambda:
+  - `InterfaceFuncional nomeVariavel = parametro -> logica`
 
-* Exemplo utilizando o mesmo código acima com lambda:
 ```JAVA
-public class Principal {
-    public static void main(String[] args) {
-        Funcao colocarPrefixoSenhorNaString = valor -> "Sr. " + valor;
-        System.out.println(colocarPrefixoSenhorNaString.gerar("Joao"));
-    }
+/* @FunctionalInterface
+ * Java Lambda - anotações e estudos
+ */
+
+
+package application;
+
+public class App {
+	public static void main(String[] args) {
+
+		/* Criando uma função lambda a partir dos parâmetros
+		* do método 'executar' da classe Calculo,
+		* Entre parênteses são parâmetros e a arrow function "->", como eles  vão se comportar
+		*/
+		Calculo somar = (a, b) -> {
+			return a + b;
+		};
+
+		/*
+		 * Como o retorno era só 1 linha, podemos abstrair as chaves e a palavra return
+		 */
+		Calculo subtrair = (a, b) -> a - b;
+
+		System.out.println(somar.executar(10, 5));
+		System.out.println(subtrair.executar(8, 4));
+	}
 }
 
-@FunctionalInterface
-interface Funcao {
-    String gerar(String valor);
-}
 ```
-* Quando uma lambda possui apenas uma instrução no corpo de sua lógica não é necessário o uso de chaves.
-    * Exemplo:`Funcao colocarPrefixoSenhorNaString = valor -> "Sr. " + valor;`
-* Se a função possui mais de uma instrução devemos utilizar chaves e além disso deve explicitar o retorno se o retorno for diferente de void.
-    * As chaves utilizadas para definir o escopo da lambda precisa ser encerradas com ";".
-    * Exemplo: 
-    ```JAVA
-    Funcao colocarPrefixoSenhorNaString = valor -> {
-        String valorComprefixo = "Sr. " + valor;
-        String valorComprefixoEpontoFinal = valorComprefixo = ".";
-        return valorComprefixoEpontoFinal;
-    }; 
-    ```
 
+Output:
+
+```
+15
+4
+```
+
+- Quando uma lambda possui apenas uma instrução no corpo de sua lógica não é necessário o uso de chaves.
+
+- Se a função possui mais de uma instrução devemos utilizar chaves e além disso deve explicitar o retorno se o retorno for diferente de void.
+  - As chaves utilizadas para definir o escopo da lambda precisa ser encerradas com ";".
+  - Exemplo:
+  ```JAVA
+  Funcao colocarPrefixoSenhorNaString = valor -> {
+      String valorComprefixo = "Sr. " + valor;
+      String valorComprefixoEpontoFinal = valorComprefixo + ".";
+      return valorComprefixoEpontoFinal;
+  };
+  ```
 
 ---
 
 ### :books:Função de alta ordem
-* É uma função que retorna uma função ou que recebe uma função como parâmetro.
+
+- É uma função que retorna uma função ou que recebe uma função como parâmetro.
 
 ```Java
 public class Principal {
@@ -83,7 +105,7 @@ public class Principal {
         System.out.println(executarOperacao(soma, 1,3));
         Calculo subtrai = (a,b) -> a-b;
         System.out.println("Subtrai: "+executarOperacao(subtrai,4,2));
-    }    
+    }
     //Função de alta ordem, utiliza outra função como parâmetro
     public static int executarOperacao(Calculo calculo, int a, int b){
         return calculo.calcular(a, b);
@@ -94,21 +116,26 @@ interface Calculo{
     public int calcular(int a, int b );
 }
 ```
+
 ---
+
 ## :books:`java.util.function`
+
 ---
 
 :floppy_disk: `java.util.function.Consumer;`
 
-* Sintaxe Consumer:
+- Sintaxe Consumer:
+
 ```Java
 public interface Consumer<T> {
     void accept (T t);
-}   
+}
 ```
-* Problema exemplo
-    * Fazer um programa que, a partir de uma lista de produtos, aumente o preço dos produtos em 10%.
-    * Usando a mesma classe 'Product' em 'Predicate'.
+
+- Problema exemplo
+  - Fazer um programa que, a partir de uma lista de produtos, aumente o preço dos produtos em 10%.
+  - Usando a mesma classe 'Product' em 'Predicate'.
 
 ```JAVA
 public class PriceUpdate implements Consumer<Product> {
@@ -156,7 +183,8 @@ public class Program {
 
 ```
 
-* Exemplo 2 
+- Exemplo 2
+
 ```Java
 import java.util.function.Consumer;
 
@@ -171,19 +199,21 @@ public class Principal {
     }
 }
 ```
+
 ---
 
 :floppy_disk: `java.util.function.Function;`
 
-* Sintaxe Function: 
+- Sintaxe Function:
 
 ```Java
 public interface Function<T, R> {
     R apply (T t);
 }
 ```
-* Problema exemplo:
-    * Fazer um programa que, a partir de uma lista de produtos, gere uma nova lista contendo os nomes dos produtos em caixa alta.
+
+- Problema exemplo:
+  - Fazer um programa que, a partir de uma lista de produtos, gere uma nova lista contendo os nomes dos produtos em caixa alta.
 
 ```Java
 public class Program {
@@ -223,7 +253,8 @@ public class UpperCaseName implements Function<Product, String> {
 }
 
 ```
-* Exemplo 2:
+
+- Exemplo 2:
 
 ```Java
 import java.util.function.Function;
@@ -240,18 +271,22 @@ public class Principal {
     }
 }
 ```
+
 ---
+
 :floppy_disk: `java.util.function.Predicate;`
 
-* Sintaxe da interface Predicate:
+- Sintaxe da interface Predicate:
+
 ```Java
 public interface Predicate<T> {
     boolean test (T t);
 }
 ```
 
-* Problema exemplo
-    * Fazer um programa que, a partir de uma lista de produtos, remova da lista somente aqueles cujo preço mínimo seja 100.
+- Problema exemplo
+  - Fazer um programa que, a partir de uma lista de produtos, remova da lista somente aqueles cujo preço mínimo seja 100.
+
 ```Java
 package ex222.application;
 
@@ -303,6 +338,7 @@ public class Program {
 }
 
 ```
+
 ```JAVA
 package ex222.application;
 
@@ -316,6 +352,7 @@ public class ProductPredicate implements Predicate<Product> {
     }
 }
 ```
+
 ```JAVA
 package ex222.application;
 
@@ -365,7 +402,8 @@ public class Product {
 
 ```
 
-* Outro exemplo
+- Outro exemplo
+
 ```Java
 import java.util.function.Predicate;
 
@@ -381,8 +419,11 @@ public class Principal {
     }
 }
 ```
+
 ---
+
 :floppy_disk: `java.util.function.Supplier;`
+
 ```Java
 import java.util.function.Supplier;
 
@@ -407,9 +448,11 @@ class Pessoa{
     }
 }
 ```
+
 ---
 
-:floppy_disk:  `Iterações`
+:floppy_disk: `Iterações`
+
 ```Java
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -472,10 +515,9 @@ public class Principal {
 
 }
 ```
----
-
 
 ---
+
+---
+
 :coffee:[Voltar](https://github.com/Dev-HideyukiTakahashi/Programador-Essencial)
-
-
