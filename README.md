@@ -51,7 +51,6 @@
                     <th colspan="5">Java avançado</th>
                 </tr>
                 <tr>
-                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/properties.md">Properties</a></td>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/jdbc.md">JDBC</a></td>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/jpa.md">JPA</a></td>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/back-end/java/java-avancado/javafx.md">JavaFX</a></td>
@@ -93,10 +92,6 @@
                 <tr>
                     <th colspan="2">CSS</th>
                 </tr>
-                <tr>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/">Espaço em branco</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/git_github/Comando.MD">Espaço em branco</a></td>                    
-                </tr>
             </table> 
             <table border=1>            
                 <tr>
@@ -117,7 +112,10 @@
                 </tr>
                 <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/javascript/tipos.md">Tipos de variáveis</a></td>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/javascript/funcoes-objetos.md">Funções - Objetos</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/javascript/funcoes.md">Funções</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/javascript/objetos.md">Objetos</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/javascript/JSON.md">JSON</a></td>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/front-end/javascript/array.md">Array</a></td>
                 </tr>
             </table>  
         </details>              

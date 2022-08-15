@@ -2,7 +2,51 @@
 
 ---
 
+### :gem:String
+
+---
+
+#### Algumas dicas
+
+```javascript
+const curso = "javascript";
+
+//Seleciona o caractere na posição 2 da String
+console.log(curso.charAt(2));
+//Seleciona os caracteres a partir da posição 3 da String, incluindo a posição 3
+console.log(curso.substring(3));
+//Seleciona do indice 0 até o índice 3, sem incluir o 3 índice('a')
+console.log(curso.substring(0, 3));
+//Podemos utilizar uma String literal sem necessariamente ter uma variável para utilizar seus métodos
+console.log("Curso".concat(" " + curso));
+```
+
+```
+v
+ascript
+jav
+Curso javascript
+```
+
+---
+
 ### :gem:Operadores matemáticos
+
+---
+
+#### Função para limitar número float
+
+```javascript
+var precoTotal = 20 / 2.55;
+
+console.log(precoTotal);
+//Passamos como parâmetro o número de casas para formatar
+console.log(precoTotal.toFixed(2));
+```
+
+- Outline:
+  `7.843137254901961`
+  `7.84`
 
 ---
 
@@ -82,6 +126,20 @@ Valor de 'x' arredondado: 1
 Valor de 'y' arredondado: 2
 ```
 
+```javascript
+function fixarValor(a) {
+  console.log(`R$ ${a.toFixed(2).replace(".", ",")}`);
+}
+
+fixarValor(0.30000000000000004);
+```
+
+- Outline:
+
+```
+R$ 0,30
+```
+
 ---
 
 ### :gem:Boolean
@@ -104,4 +162,4 @@ if('') // ou "" ou ``
 ---
 
 **Referência Origamid** :mega:[ https://www.origamid.com/](https://www.origamid.com/)
-
+**Referência Cod3r** :mega:[ https://www.cod3r.com.br/](https://www.cod3r.com.br/)
