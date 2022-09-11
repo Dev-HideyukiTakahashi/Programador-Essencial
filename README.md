@@ -210,7 +210,6 @@
                 <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/utilidades_sites/heroku.md">Heroku</a></td>
                 </tr>
-                
             </table> 
         </details>                 
     </div>
