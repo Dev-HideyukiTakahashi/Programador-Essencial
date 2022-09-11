@@ -197,19 +197,7 @@
                 </tr>
             </table> 
         </details>     
-                <details>
-            <summary><strong>Maven</strong></summary>
-            <br />
-            <table border=1>            
-                <tr>
-                    <th colspan="1">Maven</th>
-                </tr>
-                <tr>
-                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/maven/maven.md">Anotações Maven</a></td>
-                </tr>
-            </table> 
-        </details> 
-                <details>
+        <details>
             <summary><strong>Extras</strong></summary>
             <br />
             <table border=1>            
@@ -219,6 +207,10 @@
                 <tr>
                     <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/utilidades_sites/utilidades.md">Links úteis</a></td>
                 </tr>
+                <tr>
+                    <td align="center"><a href="https://github.com/Dev-HideyukiTakahashi/Essencial/blob/master/pasta_essencial/extras/utilidades_sites/heroku.md">Heroku</a></td>
+                </tr>
+                
             </table> 
         </details>                 
     </div>
