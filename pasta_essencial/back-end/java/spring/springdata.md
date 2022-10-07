@@ -6,7 +6,7 @@
 
 ---
 
-**@Transient** - O JPA ignora o atributo em questão
+**@Transient** - O JPA ignora o atributo/método em questão
 
 **@OneToOne**
 
@@ -205,3 +205,43 @@ private Date date;
 
 
 ```
+
+---
+
+### :seedling: Configuração para H2-Database (comum em testes)
+
+- Arquivo: **application-test.properties**
+  Configurações para utilizar o H2 como banco de dados para testes.
+
+```
+#criando um banco de dados em memória(mem) com nome de testdb
+spring.datasource.url=jdbc:h2:mem:testdb
+spring.datasource.username=sa
+spring.datasource.password=
+
+spring.h2.console.enabled=true
+#caminho no navegador para acesso
+spring.h2.console.path=/h2-console
+
+#comando para exibição do código sql no console
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+```
+
+---
+
+### :seedling: PostgreSQL Database
+
+```
+spring.datasource.url=jdbc:postgresql://localhost:5432/database
+spring.datasource.username=postgres
+spring.datasource.password=1234567
+
+spring.datasource.driver-class-name=org.postgresql.Driver
+
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+spring.jpa.hibernate.ddl-auto=update
+```
+
+---

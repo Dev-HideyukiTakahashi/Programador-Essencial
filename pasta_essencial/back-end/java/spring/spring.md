@@ -102,25 +102,6 @@ public class UserController {
 
 ---
 
-### :seedling: Configuração para H2-Database (comum em testes)
-
-- Arquivo: **application-test.properties**
-  Configurações para utilizar o H2 como banco de dados para testes.
-
-```
-spring.datasource.url=jdbc:h2:mem:testdb // criando um banco de dados em memória(mem) com nome de testdb
-spring.datasource.username=sa
-spring.datasource.password=
-
-spring.h2.console.enabled=true
-spring.h2.console.path=/h2-console // caminho no navegador para acesso
-
-spring.jpa.show-sql=true //comando para exibição de comandos sql no console
-spring.jpa.properties.hibernate.format_sql=true //
-```
-
----
-
 ### :seedling: Configuração de uma classe para testes.
 
 ```java
@@ -134,7 +115,7 @@ import org.springframework.context.annotation.Profile;
 import com.estudo.aula.repositories.UserRepository;
 
 @Configuration
-@Profile("test")
+@Profile("test") // Configurado no application-test.properties
 public class TestConfig implements CommandLineRunner {
 
 	@Autowired
