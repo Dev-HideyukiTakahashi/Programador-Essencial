@@ -9,8 +9,9 @@
 {
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  "files.autoSave": "afterDelay",
+  "files.autoSave": "onFocusChange",
   "editor.wordWrap": "on",
+  "explorer.compactFolders": false,
   "explorer.confirmDelete": false,
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.fontSize": 16,
@@ -28,7 +29,11 @@
   "files.autoSaveDelay": 11000,
   "window.zoomLevel": 1,
   "vsicons.dontShowNewVersionMessage": true,
-  "git.autofetch": true
+  "git.autofetch": true,
+  "redhat.telemetry.enabled": false,
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  }
 }
     </pre></code>
 
