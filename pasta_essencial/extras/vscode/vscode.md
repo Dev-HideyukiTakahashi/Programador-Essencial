@@ -46,6 +46,9 @@
     <li><strong>Markdown Preview Enhanced:</strong> É possível ver um preview como a página vai ficar com markdown.</</li>
     <li><strong>Color Highlight:</strong> extensão para css/web de cores utlizadas.</</li>
     <li><strong>Prettier - Code formatter:</strong> extensão para formatação/idententação automática ao salvar o arquivo(HTML/CSS/JS)</</li>
+    <li><strong>Auto Close Tag:</strong> extensão para fechar a tag automaticamente.</</li>
+    <li><strong>Auto Rename Tag :</strong> renomeia o fechamento da tag se a abertura foi renomeada</</li>
+    <li><strong>Angular Language Service:</strong> util para Angular</</li>
     </ul>
 
 </details>
