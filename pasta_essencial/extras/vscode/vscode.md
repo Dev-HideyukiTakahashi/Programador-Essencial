@@ -42,13 +42,14 @@
     <summary><strong>Extensões</strong></summary>
         <ul>
     <li><strong>Code Runner: </strong> essa extensão serve para possibilitar/facilitar a execução de código em várias linguagens diferentes.</li>
-    <li><strong>Live Server:</strong> Simula um servidor local para páginas dinâmicas e estáticas.</</li>
+    <li><strong>Live Preview:</strong> Local server para preview de webpages</</li>
     <li><strong>Markdown Preview Enhanced:</strong> É possível ver um preview como a página vai ficar com markdown.</</li>
     <li><strong>Color Highlight:</strong> extensão para css/web de cores utlizadas.</</li>
     <li><strong>Prettier - Code formatter:</strong> extensão para formatação/idententação automática ao salvar o arquivo(HTML/CSS/JS)</</li>
     <li><strong>Auto Close Tag:</strong> extensão para fechar a tag automaticamente.</</li>
     <li><strong>Auto Rename Tag :</strong> renomeia o fechamento da tag se a abertura foi renomeada</</li>
     <li><strong>Angular Language Service:</strong> util para Angular</</li>
+    <li><strong>Database Client JDBC(Weijan Chen):</strong> acesso a banco de dados pelo visual studio (mysql,postgresql...)</</li>
     </ul>
 
 </details>
