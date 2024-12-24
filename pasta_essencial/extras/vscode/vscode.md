@@ -52,6 +52,7 @@
         <li><strong>Angular Language Service:</strong> util para Angular</</li>
         <li><strong>Database Client JDBC(Weijan Chen):</strong> acesso a banco de dados pelo visual studio (mysql,postgresql...)</</li>
         <li><strong>Configuração para highlighs no terminal com springboot:</strong> adicionar ao application.properties : spring.output.ansi.enabled=ALWAYS</</li>
+        <li><strong>Configuração para ativar UTF-8 com java = https://stackoverflow.com/questions/57131654/using-utf-8-encoding-chcp-65001-in-command-prompt-windows-powershell-window</</li>
     </ul>
 
 </details>
