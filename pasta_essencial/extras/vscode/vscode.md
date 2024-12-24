@@ -7,6 +7,7 @@
     Atalho para conf. Json: <b>Ctrl + Shift + p , preferências, configurações Json</b></p>
     <code><pre>
 {
+  "java.debug.settings.vmArgs": "-Dfile.encoding=UTF-8", // CONFIG PARA FORÇAR UTF-8 NO VSCODE
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "files.autoSave": "onFocusChange",
